@@ -64,7 +64,7 @@ document.addEventListener('DOMContentLoaded', function() {
             } else {
                 const final_score = score;
                 localStorage.setItem('finalscore', final_score);
-                window.location.replace("file:///Users/ngtengsuan/Desktop/HTML:CSS%20Files/FizzBuzz/fb_gameover.html");
+                window.location.replace("https://tsu2000.github.io/fb_gameover.html");
             }
         });
     }
