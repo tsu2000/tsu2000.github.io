@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset = "UTF-8">
+        <meta name="viewport", content = "width = device-width, initial-scale = 1.0">  
+        <title>FizzBuzz Game</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <h1><a href="file:///Users/ngtengsuan/Desktop/HTML:CSS%20Files/FizzBuzz/fb_index.html"><button id="backbtn">Back</button></a>FizzBuzz Online Game</h1>
+        <p><b><i>Instructions on how to play:</i></b> Click on the correct button to progress. If a number is divisible by 3, click <b>"Fizz"</b>. If a number is divisible by 5, click <b>"Buzz"</b>. If a number is divisible by both 3 and 5, click <b>"FizzBuzz"</b>. If a number does not meet any of these requirements, simply click the button with the corresponding number shown. One wrong move will end the game. Have fun!</p>
+        <div>
+            <br>
+            <p id="score"><b>Score: <span id="scorecount">0</span></b></p>
+        <div id="container">
+            <h1>
+                <img id="pic1" src="fizz.jpg" alt="fizz logo">
+                <span id="bignum">0</span>
+                <img id="pic2" src="buzz.jpg" alt="buzz logo">
+            </h1>
+        </div>
+        <div id="container">
+            <button class="btn" id="fizz">Fizz</button>
+            <button class="btn" id="fizzbuzz">FizzBuzz</button>
+            <button class="btn" id="buzz">Buzz</button>
+        </div>
+        <div id="spec_btn">
+            <button class="btn" id="numget">0</button>
+        </div>
+        <script src="fizzbuzz.js"></script>
+    </body>
+</html>

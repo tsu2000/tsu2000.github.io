@@ -1,0 +1,147 @@
+body {
+    background-color: rgb(155, 209, 210);
+}
+
+#container {
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+    font-size: 64px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: navy;
+}
+
+p {
+    margin: 0 auto;
+    text-align: center;
+    font-size: 18px;
+    font-family:  Arial, Helvetica, sans-serif;
+    color:darkblue;
+    width: 75%;
+}
+
+button {
+    font-size: 16px;
+    padding: 12px;
+    border-radius: 5px;
+    margin: 5px;
+}
+
+img {
+    object-fit: fill;
+    width: 200px;
+    height: 200px;
+    padding-right: 20px;
+    padding-left: 20px;
+}
+
+#langlogo {
+    object-fit: contain;
+    width: 80px;
+    height: 80px;
+    padding-right: 20px;
+    padding-left: 20px;
+    padding-bottom: 60px;
+}
+
+#bignum {
+    text-align: center;
+    font-size: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+}
+
+#score {
+    text-align: left;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+
+    border: 3px solid red;
+    border-radius: 10px;
+
+    padding: 10px;
+    width: 125px;
+    background-color: white;
+}
+
+#scorecount {
+    color:darkblue;
+    float: right;
+}
+
+#fizz {
+    padding-left: 20px; 
+    padding-right: 20px;
+}
+
+#fizzbuzz {
+    padding-left: 20px; 
+    padding-right: 20px;
+    }
+
+#buzz {
+    padding-left: 20px; 
+    padding-right: 20px;
+}
+
+#numget {
+    padding-left: 48px; 
+    padding-right: 48px;
+}
+
+#spec_btn {
+    text-align: center;
+    position: relative;
+    right: 3px;
+}
+
+h2 {
+    margin: 0 auto;
+    text-align: left;
+    font-size: 36px;
+    font-family:  Arial, Helvetica, sans-serif;
+    color:black;
+    width: 50%;
+}
+
+#source {
+    text-align: center;
+    color: red; 
+    font-size: 12px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-decoration: none;
+}
+
+#finalscore {
+    color: red;
+    float: right; 
+}
+
+#backbtn {
+    text-align: center; 
+    float: left;   
+    position: relative;
+    left: 40px;
+    top: 2px;
+}
+
+#pic1 {
+    object-fit: contain;
+    width: 90px;
+    height: 90px;
+    position: absolute;
+    bottom: 600px;
+    right: 950px;
+}
+
+#pic2 {
+    object-fit: contain;
+    width: 90px;
+    height: 90px;
+    position: absolute;
+    bottom: 600px;
+    left: 1030px;  
+}
