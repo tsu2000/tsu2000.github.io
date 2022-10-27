@@ -78,8 +78,7 @@ img {
 }
 
 #fizzbuzz {
-    padding-left: 20px; 
-    padding-right: 20px;
+    width: 100px;
     }
 
 #buzz {
@@ -88,8 +87,7 @@ img {
 }
 
 #numget {
-    padding-left: 48px; 
-    padding-right: 48px;
+    width: 100px;
 }
 
 #spec_btn {
