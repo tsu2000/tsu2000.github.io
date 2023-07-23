@@ -1,0 +1,33 @@
+---
+title: Miscellaneous projects
+subtitle: "Here are some of my miscellaneous projects which may or may not be related to data analysis or data science."
+page-layout: full
+---
+
+## Jupyter Notebooks - Small Data Analysis Projects
+
+<img src="img/data_viz.png" style="height: 100%; width: 100%; object-fit: contain"/>
+
+<a href="https://github.com/tsu2000/small_data_projects_ipynb/tree/main" target="_blank">Code</a><br>
+
+A collection of Jupyter notebooks with some of my small(ish) data analysis and visualisation projects all in Jupyter notebooks with visible outputs and code for reproducability, written in Python. A variety of data visualisation and analysis packages were used. All datasets used in the projects are from Kaggle.
+
+------------------------------------------------------------------------
+
+## C/C++ Small Projects
+
+<img src="img/cpp.png" style="height: 100%; width: 100%; object-fit: contain"/>
+
+<a href="https://github.com/tsu2000/small_c_and_cpp_projects/tree/main" target="_blank">Code</a><br>
+
+My attempt at understanding programming at a lower level by attempting some basic projects in the C and C++ programming languages. Download and compile the code files directly from GitHub on your local machine to test out the code, if you dare.
+
+------------------------------------------------------------------------
+
+## Flask Web App 
+
+<img src="img/rpsls.png" style="height: 100%; width: 100%; object-fit: contain"/>
+
+<a href="http://tsu2000.pythonanywhere.com" target="_blank">Link to project</a><br>
+
+A very basic web game built with Flask which allows users to play an extended version of the classic game "Rock, Paper, and Scissors" with 2 additional moves, "Spock" and "Lizard". The website is hosted for free on PythonAnywhere.com, so the code is not shown publicly on my GitHub profile.
