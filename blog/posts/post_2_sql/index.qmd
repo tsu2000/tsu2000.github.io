@@ -2,7 +2,7 @@
 title: "Structured Query Langauge: Unraveling the language of databases"
 author: ChatGPT
 date: 07-24-2023 
-categories: [sql, analytics, databases, data]
+categories: [sql, analytics, databases, data, chatgpt]
 image: "sql.png"
 ---
 
