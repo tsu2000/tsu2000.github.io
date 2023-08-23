@@ -3,7 +3,7 @@ layout: page
 title: Curriculum Vitae
 excerpt: My current CV
 execute:
-  freeze: true  # never re-render during project render
+  freeze: auto  # never re-render during project render
 engine: knitr 
 sidebar: false
 resources:
