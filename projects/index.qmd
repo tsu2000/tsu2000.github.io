@@ -1,0 +1,31 @@
+---
+title: Project Overview
+subtitle: "Here is an overview of my projects, which are mostly web applications focused around basic data analytics and dashboards and have either been written in R or Python. This page will be updated semi-frequently with my projects I feel are worth mentioning."
+page-layout: full
+format:
+  html: 
+    css: tools.css
+---
+
+## Choose a type of project to explore:
+
+
+::: {layout-ncol=4 .tool}
+
+<a href="rshiny_apps/index.qmd" role="button" class="btn btn-outline-light">
+![](logos/shiny.png){width="77" height="77" fig-alt="Shiny logo."}<br />R Shiny
+</a>
+
+<a href="streamlit_apps/index.qmd" role="button" class="btn btn-outline-light">
+![](logos/streamlit.png){width="77" height="77" fig-alt="Streamlit logo."}<br />Streamlit
+</a>
+
+<a href="misc/index.qmd" role="button" class="btn btn-outline-light">
+![](logos/misc_apps.png){width="77" height="77" fig-alt="Misc projects logo."}<br />Misc. projects
+</a>
+
+<a href="https://github.com/tsu2000" role="button" class="btn btn-outline-light">
+![](logos/github.png){width="77" height="77" fig-alt="Github logo."}<br />All projects
+</a>
+
+:::

@@ -1,0 +1,163 @@
+[
+  {
+    "objectID": "blog/index.html",
+    "href": "blog/index.html",
+    "title": "Blog",
+    "section": "",
+    "text": "Structured Query Langauge: Unraveling the language of databases\n\n\n\n\n\n\n\nsql\n\n\nanalytics\n\n\ndatabases\n\n\ndata\n\n\nchatgpt\n\n\n\n\n\n\n\n\n\n\n\n24th July, 2023\n\n\nChatGPT\n\n\n\n\n\n\n  \n\n\n\n\nThe Irreplaceable Role of Auditors: Why Their Expertise Endures\n\n\n\n\n\n\n\nchatgpt\n\n\nai\n\n\naudit\n\n\nfinance\n\n\n\n\n\n\n\n\n\n\n\n20th July, 2023\n\n\nChatGPT\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "blog/posts/post_1_ai_audit/index.html",
+    "href": "blog/posts/post_1_ai_audit/index.html",
+    "title": "The Irreplaceable Role of Auditors: Why Their Expertise Endures",
+    "section": "",
+    "text": "In today’s fast-paced technological landscape, the rise of artificial intelligence and automation has sparked debates about the future of various professions, including auditors. As machines become more advanced, the question arises: Will auditors be replaced by algorithms and AI-driven tools? In this blog post, we will explore why auditors are unlikely to be replaced anytime soon and why their indispensable expertise remains crucial in ensuring trust, transparency, and accuracy in financial reporting.\n\nThe Human Touch: Auditors are not merely number-crunching machines. They possess a unique blend of human judgment, intuition, and critical thinking. While automation can streamline repetitive tasks and data analysis, it lacks the context-driven decision-making that auditors bring to the table. Auditors consider business intricacies, industry knowledge, and company-specific risks to offer a comprehensive and nuanced evaluation that goes beyond raw data.\nComplex and Dynamic Scenarios: Modern businesses operate in complex and ever-changing environments. Auditors must navigate intricate financial structures, diverse accounting standards, and evolving regulatory landscapes. Their adaptability, problem-solving skills, and ability to interpret non-financial information ensure that audits remain accurate and relevant in a rapidly evolving world.\nNon-Financial Factors: Financial statements alone do not provide a holistic picture of an organization. Auditors scrutinize non-financial factors, such as corporate culture, ethical practices, and risk management, to assess an entity’s overall health and compliance. Incorporating these qualitative assessments into an audit requires human judgment and the ability to assess intangible aspects of an organization’s operations.\nRelationship Building and Communication: Auditors interact with key stakeholders, including clients, shareholders, and regulators. Their interpersonal skills and effective communication are vital in understanding business operations, building trust, and explaining complex financial matters to various audiences. Human interaction and empathetic communication are hard to replicate through automation.\nFraud Detection and Ethical Considerations: Auditors play a critical role in detecting fraudulent activities and ensuring adherence to ethical standards. Their intuition, experience, and skepticism act as a safeguard against financial malpractices. Ethical judgment and situational awareness are attributes that cannot be programmed into machines.\nEvolving Role of Auditors: Rather than being replaced, auditors are evolving to keep pace with technological advancements. They are embracing data analytics, artificial intelligence, and automation to enhance the efficiency and effectiveness of audits. Technology serves as a tool to augment auditors’ capabilities, not a substitute for their expertise.\n\nThe role of auditors extends far beyond the boundaries of data analysis. Their human expertise, ethical judgment, adaptability, and critical thinking remain invaluable assets in safeguarding financial integrity, corporate governance, and investor confidence. While technology continues to shape the audit profession, auditors are indispensable in ensuring trust, transparency, and accountability in an ever-changing financial landscape. The human touch, combined with the power of technology, will continue to fortify the auditors’ relevance and resilience in the years to come."
+  },
+  {
+    "objectID": "blog/posts/post_2_sql/index.html",
+    "href": "blog/posts/post_2_sql/index.html",
+    "title": "Structured Query Langauge: Unraveling the language of databases",
+    "section": "",
+    "text": "Structured Query Language (SQL) is a powerful and ubiquitous language that plays a central role in the world of data management and database systems. Whether you are a budding data analyst or an aspiring software developer, understanding SQL is essential for effectively working with relational databases. In this blog post, we will unravel the mysteries of SQL, exploring its purpose, structure, and introducing some of its important commands.\n\nWhat is SQL? SQL, short for Structured Query Language, is a domain-specific language designed for managing, querying, and manipulating relational databases. It provides a standardized way to interact with databases, making it possible to store, retrieve, update, and delete data efficiently. SQL allows users to define database structures, perform complex data operations, and ensure data integrity, all through concise and powerful commands.\nKey SQL Commands:\n\nSELECT: The SELECT statement is one of the most fundamental commands in SQL. It allows you to retrieve data from one or more database tables. You can specify the columns to fetch, apply filters using the WHERE clause, and even perform aggregate functions like SUM, COUNT, AVG, etc.\nINSERT: The INSERT statement is used to add new records to a database table. It allows you to specify the table name and the values to be inserted into each column, creating new rows of data.\nUPDATE: The UPDATE statement is employed to modify existing records in a database table. You can use the SET clause to update specific columns’ values and use the WHERE clause to filter the rows to be updated.\nDELETE: The DELETE statement is used to remove records from a database table. Like the UPDATE statement, it can also be combined with the WHERE clause to selectively delete specific rows.\n\nCreating and Modifying Database Structures:\n\nCREATE TABLE: The CREATE TABLE statement is used to create a new database table. It defines the table’s columns, their data types, and any constraints like primary keys or foreign keys.\nALTER TABLE: The ALTER TABLE statement allows you to modify an existing table’s structure. You can add or drop columns, change data types, or add constraints.\n\nFiltering and Sorting Data:\n\nWHERE: The WHERE clause is used to filter data based on specific conditions. It allows you to retrieve only the records that meet the specified criteria.\nORDER BY: The ORDER BY clause is used to sort the retrieved data in ascending or descending order based on one or more columns.\n\nSyntax Variations:\nWhile SQL serves as the standardized language for interacting with relational databases, it’s important to note that different database management systems may have their own variations in SQL syntax. For example, MySQL, PostgreSQL, SQL Server, and Oracle Database, among others, may exhibit subtle differences in how they handle certain SQL commands, data types, and even functions.\n\nThese syntax variations may include slight differences in naming conventions, data type handling, date formats, and more. Therefore, when working with different database systems, it’s essential to be aware of these nuances and adapt the SQL queries accordingly.\nSQL is the cornerstone of data management, enabling efficient data retrieval, manipulation, and organization within relational databases. By mastering key SQL commands, you can harness the full potential of databases and leverage data-driven insights for decision-making and application development. As you dive deeper into the world of SQL, you’ll unlock endless possibilities to explore, analyze, and extract meaningful information from vast datasets."
+  },
+  {
+    "objectID": "cv/index.html",
+    "href": "cv/index.html",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "Download current CV"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome to my website!",
+    "section": "",
+    "text": "GitHub\n  \n  \n    \n     LinkedIn\n  \n  \n    \n     Reddit\n  \n  \n    \n     Email\n  \n\n\n\n\nWelcome to my website!\nI am Teng Suan, a Year 3 undergraduate at NUS (National University of Singapore) currently pursuing a Bachelor of Business Administration (Accountancy) with a second specialisation in Business Analytics.\nMy areas of interest lie in business and data analytics, data science and machine learning, with a minor interest in web app development and dashboard creation. I am also curious about the potential of new technologies in accounting and finance-related fields.\nOn this website, you will find a selection of my portfolio projects, as well as my curriculum vitae which you can easily download.\nPlease feel free to contact me if you have any questions or would like to discuss potential projects."
+  },
+  {
+    "objectID": "projects/index.html",
+    "href": "projects/index.html",
+    "title": "Project Overview",
+    "section": "",
+    "text": "R Shiny \n\n\n Streamlit \n\n\n Misc. projects \n\n\n All projects"
+  },
+  {
+    "objectID": "projects/index.html#choose-a-type-of-project-to-explore",
+    "href": "projects/index.html#choose-a-type-of-project-to-explore",
+    "title": "Project Overview",
+    "section": "",
+    "text": "R Shiny \n\n\n Streamlit \n\n\n Misc. projects \n\n\n All projects"
+  },
+  {
+    "objectID": "projects/misc/index.html",
+    "href": "projects/misc/index.html",
+    "title": "Miscellaneous projects",
+    "section": "",
+    "text": "Code\nA collection of Jupyter notebooks with some of my small(ish) data analysis and visualisation projects using pandas, matplotlib and other relevant libraries all in Jupyter notebooks with visible outputs and code for reproducability, written in Python. A variety of data visualisation and analysis packages were used. All datasets used in the projects are from Kaggle."
+  },
+  {
+    "objectID": "projects/misc/index.html#jupyter-notebooks---small-data-analysis-projects",
+    "href": "projects/misc/index.html#jupyter-notebooks---small-data-analysis-projects",
+    "title": "Miscellaneous projects",
+    "section": "",
+    "text": "Code\nA collection of Jupyter notebooks with some of my small(ish) data analysis and visualisation projects using pandas, matplotlib and other relevant libraries all in Jupyter notebooks with visible outputs and code for reproducability, written in Python. A variety of data visualisation and analysis packages were used. All datasets used in the projects are from Kaggle."
+  },
+  {
+    "objectID": "projects/misc/index.html#cc-small-projects",
+    "href": "projects/misc/index.html#cc-small-projects",
+    "title": "Miscellaneous projects",
+    "section": "C/C++ Small Projects",
+    "text": "C/C++ Small Projects\n\nCode\nMy attempt at understanding programming at a lower level by attempting some basic projects in the C and C++ programming languages. Download and compile the code files directly from GitHub on your local machine to test out the code, if you dare."
+  },
+  {
+    "objectID": "projects/misc/index.html#basic-flask-web-app",
+    "href": "projects/misc/index.html#basic-flask-web-app",
+    "title": "Miscellaneous projects",
+    "section": "Basic Flask Web App",
+    "text": "Basic Flask Web App\n\nLink to project\nA very basic web game built with Flask which allows users to play an upgraded version of the classic game “Rock, Paper, and Scissors” with 2 additional moves, “Spock” and “Lizard”. The website is hosted for free on PythonAnywhere.com, so the code is not shown publicly on my GitHub profile."
+  },
+  {
+    "objectID": "projects/rshiny_apps/index.html",
+    "href": "projects/rshiny_apps/index.html",
+    "title": "R Shiny Apps",
+    "section": "",
+    "text": "Link to web app | Code\nA simple web application consisting of basic programming questions for beginner programmers to learn both R syntax and how to approach LeetCode-style programming problems in R. Based off the exbook package in Python."
+  },
+  {
+    "objectID": "projects/rshiny_apps/index.html#exercise-book",
+    "href": "projects/rshiny_apps/index.html#exercise-book",
+    "title": "R Shiny Apps",
+    "section": "",
+    "text": "Link to web app | Code\nA simple web application consisting of basic programming questions for beginner programmers to learn both R syntax and how to approach LeetCode-style programming problems in R. Based off the exbook package in Python."
+  },
+  {
+    "objectID": "projects/rshiny_apps/index.html#basic-arithmetic-quiz",
+    "href": "projects/rshiny_apps/index.html#basic-arithmetic-quiz",
+    "title": "R Shiny Apps",
+    "section": "basic aRithmetic quiz",
+    "text": "basic aRithmetic quiz\n\nLink to web app | Code\nA basic arithmetic quiz web application with several different adjustable parameters to learn how the reactive programming aspect of Shiny works."
+  },
+  {
+    "objectID": "projects/rshiny_apps/index.html#mousehunt-trap-statistics-and-machine-learning",
+    "href": "projects/rshiny_apps/index.html#mousehunt-trap-statistics-and-machine-learning",
+    "title": "R Shiny Apps",
+    "section": "MouseHunt Trap Statistics and Machine Learning",
+    "text": "MouseHunt Trap Statistics and Machine Learning\n\nLink to web app | Code\nA fun, but virtually useless (gameplay-wise) web app which shows the possible associations between the different attributes of traps (weapons, bases, charms) in the idle game MouseHunt, to learn data visualisation and the statistics of linear regression."
+  },
+  {
+    "objectID": "projects/rshiny_apps/index.html#basic-stock-trading-app",
+    "href": "projects/rshiny_apps/index.html#basic-stock-trading-app",
+    "title": "R Shiny Apps",
+    "section": "Basic Stock Trading App",
+    "text": "Basic Stock Trading App\n\nLink to web app | Code\nA basic, barebones stock trading app made using the quantmod package. The app allows users to select several different stock tickers at once and view their trend as a line chart over a selected time period. It also shows the last publicly traded price. Note: All data is from Yahoo Finance, and the value of stocks is reflective in local currency."
+  },
+  {
+    "objectID": "projects/streamlit_apps/index.html",
+    "href": "projects/streamlit_apps/index.html",
+    "title": "Streamlit Projects",
+    "section": "",
+    "text": "Link to web app | Code\nA convenient web app which allows NUS (National University of Singapore) to keep track of the course they have taken in a .xlsx spreadsheet and provide detailed statistics on their GPA. All data on courses is provided by the NUSMods API here."
+  },
+  {
+    "objectID": "projects/streamlit_apps/index.html#gpa-calculator---for-nus-students",
+    "href": "projects/streamlit_apps/index.html#gpa-calculator---for-nus-students",
+    "title": "Streamlit Projects",
+    "section": "",
+    "text": "Link to web app | Code\nA convenient web app which allows NUS (National University of Singapore) to keep track of the course they have taken in a .xlsx spreadsheet and provide detailed statistics on their GPA. All data on courses is provided by the NUSMods API here."
+  },
+  {
+    "objectID": "projects/streamlit_apps/index.html#telegram-message-dashboard",
+    "href": "projects/streamlit_apps/index.html#telegram-message-dashboard",
+    "title": "Streamlit Projects",
+    "section": "Telegram Message Dashboard",
+    "text": "Telegram Message Dashboard\n\nLink to web app | Code\nThis is an interactive web dashboard which shows detailed insights about users and messages in any Telegram chat group. Users must have Telegram Desktop installed to use this app. Do note that currently the app is unable to process chat files greater than 200 MB due to resource constraints imposed on the free tier by Streamlit Community Cloud."
+  },
+  {
+    "objectID": "projects/streamlit_apps/index.html#sql-sandbox",
+    "href": "projects/streamlit_apps/index.html#sql-sandbox",
+    "title": "Streamlit Projects",
+    "section": "SQL Sandbox",
+    "text": "SQL Sandbox\n\nLink to web app | Code\nThis is my attempt at making a website similar to sqlzoo.net where users can practise their SQL skills in a sandbox environment based on the given question prompt. The app makes use of SQLite 3 to simulate a database with multiple schemas, and it only recognises SQLite3 commands when executing."
+  },
+  {
+    "objectID": "projects/streamlit_apps/index.html#machine-learning-classification---audit-risk-dataset",
+    "href": "projects/streamlit_apps/index.html#machine-learning-classification---audit-risk-dataset",
+    "title": "Streamlit Projects",
+    "section": "Machine Learning (Classification) - Audit Risk Dataset",
+    "text": "Machine Learning (Classification) - Audit Risk Dataset\n\nLink to web app | Code\nA simple classification machine learning project in Python that attempts to make use of the scikit-learn library in Python to try and accurately predict whether a firm is fraudulent using different types of classification models (KNN, Random Forest etc.), and is trained on historical data from diverse firms, where fraudulent activities were previously detected during audits. The dataset is from Kaggle."
+  },
+  {
+    "objectID": "projects/streamlit_apps/index.html#machine-learning-regression---insurance-dataset",
+    "href": "projects/streamlit_apps/index.html#machine-learning-regression---insurance-dataset",
+    "title": "Streamlit Projects",
+    "section": "Machine Learning (Regression) - Insurance Dataset",
+    "text": "Machine Learning (Regression) - Insurance Dataset\n\nLink to web app | Code\nA simple regression machine learning project in Python which aims to accurately predict insurance charges for an individual based on several input factors, such as age, BMI, number of children etc. and uses the scikit-learn library to determine the accuracy and precision of the regression model (such as linear, ridge etc.) and predict charges. The dataset is from Kaggle."
+  },
+  {
+    "objectID": "projects/streamlit_apps/index.html#genshin-impact-gacha-wish-simulator",
+    "href": "projects/streamlit_apps/index.html#genshin-impact-gacha-wish-simulator",
+    "title": "Streamlit Projects",
+    "section": "Genshin Impact Gacha Wish Simulator",
+    "text": "Genshin Impact Gacha Wish Simulator\n\nLink to web app | Code\nA web app for calculating the chances of obtaining a 4/5★ character or weapon based on their user inputs in the RPG Genshin Impact. Some statistical knowledge may be required to fully understand and use application. All probabilities used are theoretical rates and may not reflect real-life experiences."
+  }
+]
