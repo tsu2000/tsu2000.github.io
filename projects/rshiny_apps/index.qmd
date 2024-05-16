@@ -1,0 +1,33 @@
+---
+title: R Shiny Apps
+subtitle: "Here are some of my projects written in the R programming language using the `shiny` package. All apps are hosted on the free tier of shinyapps.io."
+page-layout: full
+---
+
+## exeRcise book
+
+<img src="img/exbook.png" style="height: 100%; width: 100%; object-fit: contain"/>
+
+<a href="https://tsu2000.shinyapps.io/exbook/" target="_blank">Link to web app</a> \| <a href="https://github.com/tsu2000/exbook_R" target="_blank">Code</a><br>
+
+A simple web application consisting of basic programming questions for beginner programmers to learn both R syntax and how to approach LeetCode-style programming problems in R. Based off the `exbook` package in Python.
+
+------------------------------------------------------------------------
+
+## Basic Stock Trading App
+
+<img src="img/stock_trade.png" style="height: 100%; width: 100%; object-fit: contain"/>
+
+<a href="https://tsu2000.shinyapps.io/stock_trading/" target="_blank">Link to web app</a> \| <a href="https://github.com/tsu2000/stock_trading" target="_blank">Code</a><br>
+
+A basic, barebones stock trading app made using the `quantmod` package. The app allows users to select several different stock tickers at once and view their trend as a line chart over a selected time period. It also shows the last publicly traded price. Note: All data is from Yahoo Finance, and the value of stocks is reflective in local currency.
+
+------------------------------------------------------------------------
+
+## Basic Arithmetic Quiz
+
+<img src="img/math_quiz.png" style="height: 100%; width: 100%; object-fit: contain"/>
+
+<a href="https://tsu2000.shinyapps.io/math_quiz/" target="_blank">Link to web app</a> \| <a href="https://github.com/tsu2000/math_quiz" target="_blank">Code</a><br>
+
+A basic arithmetic quiz web application with several different adjustable parameters to learn how the reactive programming aspect of Shiny works.
