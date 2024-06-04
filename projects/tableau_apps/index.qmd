@@ -1,0 +1,23 @@
+---
+title: Tableau Projects
+subtitle: "Projects completed and displayed with Tableau Public, a free platform to share data visualisations."
+page-layout: full
+---
+
+## Singapore University Graduate Employment Statistics
+
+<img src="img/uni.png" style="height: 100%; width: 100%; object-fit: contain"/>
+
+<a href="https://public.tableau.com/app/profile/teng.suan.ng/viz/SingaporesBig3UniGraduateEmploymentStats/Final" target="_blank">Link to dashboard</a>
+
+A dashboard comparing several employment statistics of fresh graduates from the "Big 3" universities in Singapore (NUS, NTU and SMU) including factors such as employment rate and mean income, across different undergraduate degree programs in the different universities. Data was sourced from the annual Graduate Employment survey from 2013 to 2021.
+
+------------------------------------------------------------------------
+
+## World Happiness Report Dashboard (2024)
+
+<img src="img/whr.png" style="height: 100%; width: 100%; object-fit: contain"/>
+
+<a href="https://public.tableau.com/app/profile/teng.suan.ng/viz/WorldHappinessReportDashboard_17163534563700/Dashboard1?publish=yes" target="_blank">Link to dashboard</a>
+
+A visualisation of overall happiness across the world over time using the Cantril Ladder score as a benchmark, in which participants are asked to rank their own lives on a scale of 0 to 10, with 0 being the worst possible lives for them, and 10 being the best possible lives. All the data used in the dashboard was collected from past and current iterations of the World Happiness Report, which aims to review to review and assess the state of happiness in the world using data.
