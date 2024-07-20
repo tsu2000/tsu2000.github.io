@@ -27,7 +27,7 @@ sidebar: false
 
 I am **Teng Suan**, a Year 3 undergraduate at NUS (National University of Singapore) currently pursuing a Bachelor of Business Administration (Accountancy) with a second specialisation in Business Analytics.
 
-My areas of interest lie in business analytics or any adjacent analytics-related fields, including data visualisation, data analytics, data science and machine learning. I am currently looking for my first analytics internship role this summer break from June 2024 to August 2024.
+My areas of interest lie in business analytics or any adjacent analytics-related fields, including data visualisation, data analytics, data science and machine learning. I am currently looking for my first internship role in analytics.
 
 On this website, you will find a selection of my portfolio projects, as well as my curriculum vitae which you can easily download.
 
