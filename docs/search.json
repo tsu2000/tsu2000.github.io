@@ -32,7 +32,7 @@
     "href": "index.html",
     "title": "Welcome to my website!",
     "section": "",
-    "text": "GitHub\n  \n  \n    \n     LinkedIn\n  \n  \n    \n     Reddit\n  \n  \n    \n     Email\n  \n\n\n\n\nWelcome to my website!\nI am Teng Suan, a Year 3 undergraduate at NUS (National University of Singapore) currently pursuing a Bachelor of Business Administration (Accountancy) with a second specialisation in Business Analytics.\nMy areas of interest lie in business analytics or any adjacent analytics-related fields, including data visualisation, data analytics, data science and machine learning. I am currently looking for my first analytics internship role this summer break from June 2024 to August 2024.\nOn this website, you will find a selection of my portfolio projects, as well as my curriculum vitae which you can easily download.\nPlease feel free to contact me if you have any questions or would like to discuss potential projects."
+    "text": "GitHub\n  \n  \n    \n     LinkedIn\n  \n  \n    \n     Reddit\n  \n  \n    \n     Email\n  \n\n\n\n\nWelcome to my website!\nI am Teng Suan, a Year 3 undergraduate at NUS (National University of Singapore) currently pursuing a Bachelor of Business Administration (Accountancy) with a second specialisation in Business Analytics.\nMy areas of interest lie in business analytics or any adjacent analytics-related fields, including data visualisation, data analytics, data science and machine learning. I am currently looking for my first internship role in analytics.\nOn this website, you will find a selection of my portfolio projects, as well as my curriculum vitae which you can easily download.\nPlease feel free to contact me if you have any questions or would like to discuss potential projects."
   },
   {
     "objectID": "projects/index.html",
@@ -82,6 +82,13 @@
     "title": "Shiny Projects",
     "section": "",
     "text": "Link to web app | Code\nA simple web application consisting of basic programming questions for beginner programmers to learn both R syntax and programming methodology in R. Based off the exbook package in Python, a package containing LeetCode-style practice problems for new coders."
+  },
+  {
+    "objectID": "projects/rshiny_apps/index.html#bondscope-sg",
+    "href": "projects/rshiny_apps/index.html#bondscope-sg",
+    "title": "Shiny Projects",
+    "section": "BondScope SG",
+    "text": "BondScope SG\n\nLink to web app | Code\nA web app to visualise historical yields and predict future yield rates of Singapore T-Bills and SGS Bonds with the forecast package and time series analysis. The app uses daily historical yields to predict the next month of yields. Data is taken from the Monetary Authority of Singapore (MAS) and data is expected to be updated monthly."
   },
   {
     "objectID": "projects/rshiny_apps/index.html#stock-trading-app",
