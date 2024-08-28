@@ -25,10 +25,10 @@ sidebar: false
 
 # Welcome to my website!
 
-I am **Teng Suan**, a Year 3 undergraduate at NUS (National University of Singapore) currently pursuing a Bachelor of Business Administration (Accountancy) with a second specialisation in Business Analytics.
+I am **Teng Suan**, a final-year undergraduate at NUS (National University of Singapore) currently pursuing a Bachelor of Business Administration (Accountancy) with a second specialisation in Business Analytics.
 
-My areas of interest lie in business analytics or any adjacent analytics-related fields, including data visualisation, data analytics, data science and machine learning. I am currently looking for my first analytics internship role this summer break from June 2024 to August 2024.
+I am currently looking for my first analytics-related internship/full-time role. My areas of interest lie in business/data analytics or any adjacent data-related fields, such as data engineering, data science and machine learning. 
 
-On this website, you will find a selection of my portfolio projects, as well as my curriculum vitae which you can easily download.
+On this website, you will find a selection of my personal projects, as well as my curriculum vitae which you can easily download.
 
-Please feel free to [contact me](mailto:mail.ngtengsuan@gmail.com) if you have any questions or would like to discuss potential projects.
+Please feel free to [contact me](mailto:mail.ngtengsuan@gmail.com) if you have any questions or would like to discuss potential data projects.

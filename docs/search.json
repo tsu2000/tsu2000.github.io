@@ -32,7 +32,7 @@
     "href": "index.html",
     "title": "Welcome to my website!",
     "section": "",
-    "text": "GitHub\n  \n  \n    \n     LinkedIn\n  \n  \n    \n     Reddit\n  \n  \n    \n     Email\n  \n\n\n\n\nWelcome to my website!\nI am Teng Suan, a Year 3 undergraduate at NUS (National University of Singapore) currently pursuing a Bachelor of Business Administration (Accountancy) with a second specialisation in Business Analytics.\nMy areas of interest lie in business analytics or any adjacent analytics-related fields, including data visualisation, data analytics, data science and machine learning. I am currently looking for my first analytics internship role this summer break from June 2024 to August 2024.\nOn this website, you will find a selection of my portfolio projects, as well as my curriculum vitae which you can easily download.\nPlease feel free to contact me if you have any questions or would like to discuss potential projects."
+    "text": "GitHub\n  \n  \n    \n     LinkedIn\n  \n  \n    \n     Reddit\n  \n  \n    \n     Email\n  \n\n\n\n\nWelcome to my website!\nI am Teng Suan, a final-year undergraduate at NUS (National University of Singapore) currently pursuing a Bachelor of Business Administration (Accountancy) with a second specialisation in Business Analytics.\nI am currently looking for my first analytics-related internship/full-time role. My areas of interest lie in business/data analytics or any adjacent data-related fields, such as data engineering, data science and machine learning.\nOn this website, you will find a selection of my personal projects, as well as my curriculum vitae which you can easily download.\nPlease feel free to contact me if you have any questions or would like to discuss potential data projects."
   },
   {
     "objectID": "projects/index.html",
@@ -74,14 +74,21 @@
     "href": "projects/rshiny_apps/index.html",
     "title": "Shiny Projects",
     "section": "",
-    "text": "Link to web app | Code\nA simple web application consisting of basic programming questions for beginner programmers to learn both R syntax and programming methodology in R. Based off the exbook package in Python, a package containing LeetCode-style practice problems for new coders."
+    "text": "Link to web app | Code\nA web app to visualise historical yields and predict future yield rates of Singapore T-Bills and SGS Bonds with the forecast package and time series analysis. The app uses daily historical yields to predict the next month of yields. Data is taken from the Monetary Authority of Singapore (MAS) and data is expected to be updated monthly."
+  },
+  {
+    "objectID": "projects/rshiny_apps/index.html#bondscope-sg",
+    "href": "projects/rshiny_apps/index.html#bondscope-sg",
+    "title": "Shiny Projects",
+    "section": "",
+    "text": "Link to web app | Code\nA web app to visualise historical yields and predict future yield rates of Singapore T-Bills and SGS Bonds with the forecast package and time series analysis. The app uses daily historical yields to predict the next month of yields. Data is taken from the Monetary Authority of Singapore (MAS) and data is expected to be updated monthly."
   },
   {
     "objectID": "projects/rshiny_apps/index.html#exercise-book",
     "href": "projects/rshiny_apps/index.html#exercise-book",
     "title": "Shiny Projects",
-    "section": "",
-    "text": "Link to web app | Code\nA simple web application consisting of basic programming questions for beginner programmers to learn both R syntax and programming methodology in R. Based off the exbook package in Python, a package containing LeetCode-style practice problems for new coders."
+    "section": "exeRcise book",
+    "text": "exeRcise book\n\nLink to web app | Code\nA simple web application consisting of basic programming questions for beginner programmers to learn both R syntax and programming methodology in R. Based off the exbook package in Python, a package containing LeetCode-style practice problems for new coders."
   },
   {
     "objectID": "projects/rshiny_apps/index.html#stock-trading-app",
@@ -102,14 +109,21 @@
     "href": "projects/streamlit_apps/index.html",
     "title": "Streamlit Projects",
     "section": "",
-    "text": "Link to web app | Code\nA simple classification machine learning project in Python that attempts to make use of the scikit-learn library in Python to try and accurately predict whether a firm is fraudulent using different types of classification models (KNN, Random Forest etc.), and is trained on historical data from diverse firms, where fraudulent activities were previously detected during audits. The dataset is from Kaggle."
+    "text": "Link to web app | Code\nAn interactive web dashboard which shows detailed insights about users and messages in any Telegram chat group. Users must have Telegram Desktop installed to use this app. Do note that currently the app is unable to process chat files greater than 200 MB due to resource constraints imposed on the free tier of Streamlit Community Cloud."
+  },
+  {
+    "objectID": "projects/streamlit_apps/index.html#telegram-message-dashboard",
+    "href": "projects/streamlit_apps/index.html#telegram-message-dashboard",
+    "title": "Streamlit Projects",
+    "section": "",
+    "text": "Link to web app | Code\nAn interactive web dashboard which shows detailed insights about users and messages in any Telegram chat group. Users must have Telegram Desktop installed to use this app. Do note that currently the app is unable to process chat files greater than 200 MB due to resource constraints imposed on the free tier of Streamlit Community Cloud."
   },
   {
     "objectID": "projects/streamlit_apps/index.html#machine-learning-classification---audit-fraud-detection",
     "href": "projects/streamlit_apps/index.html#machine-learning-classification---audit-fraud-detection",
     "title": "Streamlit Projects",
-    "section": "",
-    "text": "Link to web app | Code\nA simple classification machine learning project in Python that attempts to make use of the scikit-learn library in Python to try and accurately predict whether a firm is fraudulent using different types of classification models (KNN, Random Forest etc.), and is trained on historical data from diverse firms, where fraudulent activities were previously detected during audits. The dataset is from Kaggle."
+    "section": "Machine Learning (Classification) - Audit Fraud Detection",
+    "text": "Machine Learning (Classification) - Audit Fraud Detection\n\nLink to web app | Code\nA simple classification machine learning project in Python that attempts to make use of the scikit-learn library in Python to try and accurately predict whether a firm is fraudulent using different types of classification models (KNN, Random Forest etc.), and is trained on historical data from diverse firms, where fraudulent activities were previously detected during audits. The dataset is from Kaggle."
   },
   {
     "objectID": "projects/streamlit_apps/index.html#machine-learning-regression---insurance-pricing",
@@ -117,13 +131,6 @@
     "title": "Streamlit Projects",
     "section": "Machine Learning (Regression) - Insurance Pricing",
     "text": "Machine Learning (Regression) - Insurance Pricing\n\nLink to web app | Code\nA basic regression machine learning project in Python which aims to accurately predict insurance charges for an individual based on several input factors, such as age, BMI, number of children etc. and uses the scikit-learn library to determine the accuracy and precision of the regression model (such as linear, ridge etc.) and predict charges. The dataset is from Kaggle."
-  },
-  {
-    "objectID": "projects/streamlit_apps/index.html#telegram-message-dashboard",
-    "href": "projects/streamlit_apps/index.html#telegram-message-dashboard",
-    "title": "Streamlit Projects",
-    "section": "Telegram Message Dashboard",
-    "text": "Telegram Message Dashboard\n\nLink to web app | Code\nAn interactive web dashboard which shows detailed insights about users and messages in any Telegram chat group. Users must have Telegram Desktop installed to use this app. Do note that currently the app is unable to process chat files greater than 200 MB due to resource constraints imposed on the free tier of Streamlit Community Cloud."
   },
   {
     "objectID": "projects/streamlit_apps/index.html#binomial-options-pricing-model-visualisation-and-calculator",

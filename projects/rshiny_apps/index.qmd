@@ -1,8 +1,18 @@
 ---
 title: Shiny Projects
-subtitle: "Projects written in the R programming language using the `shiny` package. All apps are hosted on the free tier of shinyapps.io."
+subtitle: "Data projects written in the R programming language using the `shiny` package. All apps are hosted on the free tier of shinyapps.io."
 page-layout: full
 ---
+
+## BondScope SG
+
+<img src="img/sgs.png" style="height: 100%; width: 100%; object-fit: contain"/>
+
+<a href="https://tsu2000.shinyapps.io/bondscope_sg/" target="_blank">Link to web app</a> \| <a href="https://github.com/tsu2000/bondscope_sg" target="_blank">Code</a><br>
+
+A web app to visualise historical yields and predict future yield rates of Singapore T-Bills and SGS Bonds with the `forecast` package and time series analysis. The app uses daily historical yields to predict the next month of yields. Data is taken from the Monetary Authority of Singapore (MAS) and data is expected to be updated monthly.
+
+------------------------------------------------------------------------
 
 ## exeRcise book
 
