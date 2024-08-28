@@ -10,7 +10,7 @@ format:
 ## Choose a type of project to explore:
 
 
-::: {layout-ncol=4 .tool}
+::: {layout-ncol=5 .tool}
 
 <a href="rshiny_apps/index.qmd" role="button" class="btn btn-outline-light">
 ![](logos/shiny.png){width="77" height="77" fig-alt="Shiny logo."}<br />R Shiny
@@ -29,7 +29,7 @@ format:
 </a>
 
 <a href="https://github.com/tsu2000" role="button" class="btn btn-outline-light">
-![](logos/github.png){width="77" height="77" fig-alt="Github logo."}<br />All projects
+![](logos/github.png){width="77" height="77" fig-alt="Github logo."}<br />Project Codes
 </a>
 
 :::

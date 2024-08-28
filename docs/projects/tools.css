@@ -9,23 +9,25 @@
   width: 150px;
   color: rgb(55, 58, 60);
   text-align: center;
-  border: 1px solid rgb(222, 226, 230);
-  border-radius: 10px;
-  margin-right: 20px;
-  margin-bottom: 0;
+  border: 1px solid rgb(189, 194, 198);
+  border-radius: 5px;
+  margin-right: 5px;
+  margin-left: 5px;
+  margin-bottom: 10px;
   margin-top: 10px;
   font-size: 0.85em;
 }
 
 .tool .btn-outline-light:hover {
-  border-color: rgb(80,146,221);
+  border-color: rgb(36, 81, 132);
   background-color: transparent;
 }
 
 .tool a[role="button"] img {
   display: block;
-  width: 67px;
-  height: 67px;
+  width: 100px;
+  height: 100px;
   margin: auto;
-  margin-bottom: 5px;
+  margin-bottom: -5px;
+  margin-top: 10px;
 }
