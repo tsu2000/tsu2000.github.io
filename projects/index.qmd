@@ -9,7 +9,6 @@ format:
 
 ## Choose a type of project to explore:
 
-
 ::: {layout-ncol=5 .tool}
 
 <a href="rshiny_apps/index.qmd" role="button" class="btn btn-outline-light">

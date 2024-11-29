@@ -25,7 +25,6 @@ sidebar: false
 
 # See how I bring my ideas to life.
 
-<<<<<<< HEAD
 I am Teng Suan, a final-year undergraduate at the National University of Singapore (NUS), pursuing a Bachelor of Business Administration (Accountancy) with a second specialisation in Business Analytics.
 
 I am currently seeking my first analytics-related role, with a keen interest in business analytics, data analytics, or data-driven consulting.
@@ -33,12 +32,3 @@ I am currently seeking my first analytics-related role, with a keen interest in 
 This website showcases a selection of my personal projects and provides access to my curriculum vitae for download.
 
 If you have any questions or would like to discuss potential data projects or job prospects, feel free to [contact me](mailto:mail.ngtengsuan@gmail.com).
-=======
-I am **Teng Suan**, a final-year undergraduate at NUS (National University of Singapore) currently pursuing a Bachelor of Business Administration (Accountancy) with a second specialisation in Business Analytics.
-
-I am currently looking for my first analytics-related internship/full-time role. My areas of interest lie in business/data analytics or any adjacent data-related fields, such as data engineering, data science and machine learning. 
-
-On this website, you will find a selection of my personal projects, as well as my curriculum vitae which you can easily download.
-
-Please feel free to [contact me](mailto:mail.ngtengsuan@gmail.com) if you have any questions or would like to discuss potential data projects.
->>>>>>> d3f3c592890674474a5aad515c9adcf243dfbd9a

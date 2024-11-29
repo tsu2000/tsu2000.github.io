@@ -92,10 +92,10 @@
     "href": "projects/index.html",
     "title": "Project Overview",
     "section": "",
-    "text": "R Shiny \n\n\n Streamlit \n\n\n Tableau \n\n\n Misc. projects \n\n\n\n\n All projects",
+    "text": "R Shiny \n\n\n Streamlit \n\n\n Tableau \n\n\n Misc. projects \n\n\n Project Codes",
     "crumbs": [
       "Projects",
-      "Project Overview"
+      "**Project Overview**"
     ]
   },
   {
@@ -103,10 +103,10 @@
     "href": "projects/index.html#choose-a-type-of-project-to-explore",
     "title": "Project Overview",
     "section": "",
-    "text": "R Shiny \n\n\n Streamlit \n\n\n Tableau \n\n\n Misc. projects \n\n\n\n\n All projects",
+    "text": "R Shiny \n\n\n Streamlit \n\n\n Tableau \n\n\n Misc. projects \n\n\n Project Codes",
     "crumbs": [
       "Projects",
-      "Project Overview"
+      "**Project Overview**"
     ]
   },
   {
@@ -142,25 +142,7 @@
     "href": "index.html",
     "title": "See how I bring my ideas to life.",
     "section": "",
-<<<<<<< HEAD
     "text": "GitHub\n  \n  \n    \n     LinkedIn\n  \n  \n    \n     Reddit\n  \n  \n    \n     Email\n  \n\n\n\n\nSee how I bring my ideas to life.\nI am Teng Suan, a final-year undergraduate at the National University of Singapore (NUS), pursuing a Bachelor of Business Administration (Accountancy) with a second specialisation in Business Analytics.\nI am currently seeking my first analytics-related role, with a keen interest in business analytics, data analytics, or data-driven consulting.\nThis website showcases a selection of my personal projects and provides access to my curriculum vitae for download.\nIf you have any questions or would like to discuss potential data projects or job prospects, feel free to contact me."
-=======
-    "text": "GitHub\n  \n  \n    \n     LinkedIn\n  \n  \n    \n     Reddit\n  \n  \n    \n     Email\n  \n\n\n\n\nWelcome to my website!\nI am Teng Suan, a final-year undergraduate at NUS (National University of Singapore) currently pursuing a Bachelor of Business Administration (Accountancy) with a second specialisation in Business Analytics.\nI am currently looking for my first analytics-related internship/full-time role. My areas of interest lie in business/data analytics or any adjacent data-related fields, such as data engineering, data science and machine learning.\nOn this website, you will find a selection of my personal projects, as well as my curriculum vitae which you can easily download.\nPlease feel free to contact me if you have any questions or would like to discuss potential data projects."
-  },
-  {
-    "objectID": "projects/index.html",
-    "href": "projects/index.html",
-    "title": "Project Overview",
-    "section": "",
-    "text": "R Shiny \n\n\n Streamlit \n\n\n Tableau \n\n\n Misc. projects \n\n\n Project Codes"
-  },
-  {
-    "objectID": "projects/index.html#choose-a-type-of-project-to-explore",
-    "href": "projects/index.html#choose-a-type-of-project-to-explore",
-    "title": "Project Overview",
-    "section": "",
-    "text": "R Shiny \n\n\n Streamlit \n\n\n Tableau \n\n\n Misc. projects \n\n\n Project Codes"
->>>>>>> d3f3c592890674474a5aad515c9adcf243dfbd9a
   },
   {
     "objectID": "projects/misc/index.html",
@@ -200,110 +182,55 @@
     "href": "projects/misc/index.html#rock-paper-scissors-lizard-spock",
     "title": "Misc. Projects",
     "section": "Rock, Paper, Scissors, Lizard, Spock",
-<<<<<<< HEAD
     "text": "Rock, Paper, Scissors, Lizard, Spock\n\nLink to project\nAn esoteric web game built with Flask which allows users to play an modified version of the classic game “Rock, Paper, and Scissors” with 2 additional moves, “Spock” and “Lizard”. The website is hosted for free on PythonAnywhere.com, so the code is not shown publicly on GitHub.",
     "crumbs": [
       "Projects",
       "Misc. Projects"
     ]
-=======
-    "text": "Rock, Paper, Scissors, Lizard, Spock\n\nLink to project\nAn esoteric web game built with Flask which allows users to play an modified version of the classic game “Rock, Paper, and Scissors” with 2 additional moves, “Spock” and “Lizard”. The website is hosted for free on PythonAnywhere.com, so the code is not shown publicly on GitHub."
-  },
-  {
-    "objectID": "projects/rshiny_apps/index.html",
-    "href": "projects/rshiny_apps/index.html",
-    "title": "Shiny Projects",
-    "section": "",
-    "text": "Link to web app | Code\nA web app to visualise historical yields and predict future yield rates of Singapore T-Bills and SGS Bonds with the forecast package and time series analysis. The app uses daily historical yields to predict the next month of yields. Data is taken from the Monetary Authority of Singapore (MAS) and data is expected to be updated monthly."
-  },
-  {
-    "objectID": "projects/rshiny_apps/index.html#bondscope-sg",
-    "href": "projects/rshiny_apps/index.html#bondscope-sg",
-    "title": "Shiny Projects",
-    "section": "",
-    "text": "Link to web app | Code\nA web app to visualise historical yields and predict future yield rates of Singapore T-Bills and SGS Bonds with the forecast package and time series analysis. The app uses daily historical yields to predict the next month of yields. Data is taken from the Monetary Authority of Singapore (MAS) and data is expected to be updated monthly."
-  },
-  {
-    "objectID": "projects/rshiny_apps/index.html#exercise-book",
-    "href": "projects/rshiny_apps/index.html#exercise-book",
-    "title": "Shiny Projects",
-    "section": "exeRcise book",
-    "text": "exeRcise book\n\nLink to web app | Code\nA simple web application consisting of basic programming questions for beginner programmers to learn both R syntax and programming methodology in R. Based off the exbook package in Python, a package containing LeetCode-style practice problems for new coders."
-  },
-  {
-    "objectID": "projects/rshiny_apps/index.html#stock-trading-app",
-    "href": "projects/rshiny_apps/index.html#stock-trading-app",
-    "title": "Shiny Projects",
-    "section": "Stock Trading App",
-    "text": "Stock Trading App\n\nLink to web app | Code\nA barebones stock trading app made using the quantmod package. The app allows users to select several different stock tickers at once and view the price trend as a line chart over a selected time period. It also shows the last publicly traded price. Note: All data is from Yahoo Finance, and the price of each stock is reflected in its respective local currency."
-  },
-  {
-    "objectID": "projects/rshiny_apps/index.html#arithmetic-quiz",
-    "href": "projects/rshiny_apps/index.html#arithmetic-quiz",
-    "title": "Shiny Projects",
-    "section": "Arithmetic Quiz",
-    "text": "Arithmetic Quiz\n\nLink to web app | Code\nA timed arithmetic quiz with several different adjustable parameters to learn how the reactive programming aspect of Shiny works."
->>>>>>> d3f3c592890674474a5aad515c9adcf243dfbd9a
   },
   {
     "objectID": "projects/streamlit_apps/index.html",
     "href": "projects/streamlit_apps/index.html",
     "title": "Streamlit Projects",
     "section": "",
-<<<<<<< HEAD
     "text": "Link to web app | Code\nAn interactive web dashboard which shows detailed insights about users and messages in any Telegram chat group. Users must have Telegram Desktop installed to use this app. Do note that currently the app is unable to process chat files greater than 200 MB due to resource constraints imposed on the free tier of Streamlit Community Cloud.",
     "crumbs": [
       "Projects",
       "Streamlit Projects"
     ]
-=======
-    "text": "Link to web app | Code\nAn interactive web dashboard which shows detailed insights about users and messages in any Telegram chat group. Users must have Telegram Desktop installed to use this app. Do note that currently the app is unable to process chat files greater than 200 MB due to resource constraints imposed on the free tier of Streamlit Community Cloud."
->>>>>>> d3f3c592890674474a5aad515c9adcf243dfbd9a
   },
   {
     "objectID": "projects/streamlit_apps/index.html#telegram-message-dashboard",
     "href": "projects/streamlit_apps/index.html#telegram-message-dashboard",
     "title": "Streamlit Projects",
     "section": "",
-<<<<<<< HEAD
     "text": "Link to web app | Code\nAn interactive web dashboard which shows detailed insights about users and messages in any Telegram chat group. Users must have Telegram Desktop installed to use this app. Do note that currently the app is unable to process chat files greater than 200 MB due to resource constraints imposed on the free tier of Streamlit Community Cloud.",
     "crumbs": [
       "Projects",
       "Streamlit Projects"
     ]
-=======
-    "text": "Link to web app | Code\nAn interactive web dashboard which shows detailed insights about users and messages in any Telegram chat group. Users must have Telegram Desktop installed to use this app. Do note that currently the app is unable to process chat files greater than 200 MB due to resource constraints imposed on the free tier of Streamlit Community Cloud."
->>>>>>> d3f3c592890674474a5aad515c9adcf243dfbd9a
   },
   {
     "objectID": "projects/streamlit_apps/index.html#machine-learning-classification---audit-fraud-detection",
     "href": "projects/streamlit_apps/index.html#machine-learning-classification---audit-fraud-detection",
     "title": "Streamlit Projects",
     "section": "Machine Learning (Classification) - Audit Fraud Detection",
-<<<<<<< HEAD
     "text": "Machine Learning (Classification) - Audit Fraud Detection\n\nLink to web app | Code\nA simple classification machine learning project in Python that attempts to make use of the scikit-learn library in Python to try and accurately predict whether a firm is fraudulent using different types of classification models (KNN, Random Forest etc.), and is trained on historical data from diverse firms, where fraudulent activities were previously detected during audits. The dataset is from Kaggle.",
     "crumbs": [
       "Projects",
       "Streamlit Projects"
     ]
-=======
-    "text": "Machine Learning (Classification) - Audit Fraud Detection\n\nLink to web app | Code\nA simple classification machine learning project in Python that attempts to make use of the scikit-learn library in Python to try and accurately predict whether a firm is fraudulent using different types of classification models (KNN, Random Forest etc.), and is trained on historical data from diverse firms, where fraudulent activities were previously detected during audits. The dataset is from Kaggle."
->>>>>>> d3f3c592890674474a5aad515c9adcf243dfbd9a
   },
   {
     "objectID": "projects/streamlit_apps/index.html#machine-learning-regression---insurance-pricing",
     "href": "projects/streamlit_apps/index.html#machine-learning-regression---insurance-pricing",
     "title": "Streamlit Projects",
     "section": "Machine Learning (Regression) - Insurance Pricing",
-<<<<<<< HEAD
     "text": "Machine Learning (Regression) - Insurance Pricing\n\nLink to web app | Code\nA basic regression machine learning project in Python which aims to accurately predict insurance charges for an individual based on several input factors, such as age, BMI, number of children etc. and uses the scikit-learn library to determine the accuracy and precision of the regression model (such as linear, ridge etc.) and predict charges. The dataset is from Kaggle.",
     "crumbs": [
       "Projects",
       "Streamlit Projects"
     ]
-=======
-    "text": "Machine Learning (Regression) - Insurance Pricing\n\nLink to web app | Code\nA basic regression machine learning project in Python which aims to accurately predict insurance charges for an individual based on several input factors, such as age, BMI, number of children etc. and uses the scikit-learn library to determine the accuracy and precision of the regression model (such as linear, ridge etc.) and predict charges. The dataset is from Kaggle."
->>>>>>> d3f3c592890674474a5aad515c9adcf243dfbd9a
   },
   {
     "objectID": "projects/streamlit_apps/index.html#binomial-options-pricing-model-visualisation-and-calculator",
