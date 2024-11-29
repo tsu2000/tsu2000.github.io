@@ -1,8 +1,18 @@
 ---
 title: Streamlit Projects
-subtitle: "Projects written in the Python programming language using the `streamlit` library in Python to create interactive web applications, hosted for free on Streamlit Community Cloud."
+subtitle: "Data projects written in the Python programming language using the `streamlit` library in Python to create interactive web applications, hosted for free on Streamlit Community Cloud."
 page-layout: full
 ---
+
+## Telegram Message Dashboard
+
+<img src="img/tele_dash.png" style="height: 100%; width: 100%; object-fit: contain"/>
+
+<a href="https://tele-dash.streamlit.app" target="_blank">Link to web app</a> \| <a href="https://github.com/tsu2000/tele_dashboard" target="_blank">Code</a><br>
+
+An interactive web dashboard which shows detailed insights about users and messages in any Telegram chat group. Users must have [Telegram Desktop](https://desktop.telegram.org) installed to use this app. Do note that currently the app is unable to process chat files greater than 200 MB due to resource constraints imposed on the free tier of Streamlit Community Cloud.
+
+------------------------------------------------------------------------
 
 ## Machine Learning (Classification) - Audit Fraud Detection
 
@@ -24,16 +34,6 @@ A basic regression machine learning project in Python which aims to accurately p
 
 ------------------------------------------------------------------------
 
-## Telegram Message Dashboard
-
-<img src="img/tele_dash.png" style="height: 100%; width: 100%; object-fit: contain"/>
-
-<a href="https://tele-dash.streamlit.app" target="_blank">Link to web app</a> \| <a href="https://github.com/tsu2000/tele_dashboard" target="_blank">Code</a><br>
-
-An interactive web dashboard which shows detailed insights about users and messages in any Telegram chat group. Users must have [Telegram Desktop](https://desktop.telegram.org) installed to use this app. Do note that currently the app is unable to process chat files greater than 200 MB due to resource constraints imposed on the free tier of Streamlit Community Cloud.
-
-------------------------------------------------------------------------
-
 ## Binomial Options Pricing Model Visualisation and Calculator
 
 <img src="img/bopm.png" style="height: 100%; width: 100%; object-fit: contain"/>
@@ -51,13 +51,3 @@ A web application designed for students studying options pricing, offering an in
 <a href="https://nus-cap.streamlit.app" target="_blank">Link to web app</a> \| <a href="https://github.com/tsu2000/nus_cap_calculator" target="_blank">Code</a><br>
 
 A web app which allows NUS (National University of Singapore) students to easily keep track of the course they have taken in an Excel spreadsheet and provide detailed statistics on their GPA and courses taken. All data on courses is up-to-date and provided by the NUSMods API [here](https://api.nusmods.com/v2/).
-
-------------------------------------------------------------------------
-
-## Genshin Impact Gacha Wish Simulator
-
-<img src="img/gi.png" style="height: 100%; width: 100%; object-fit: contain"/>
-
-<a href="https://gi-wish.streamlit.app" target="_blank">Link to web app</a> \| <a href="https://github.com/tsu2000/genshin_wishes" target="_blank">Code</a><br>
-
-A web app for calculating the chances of obtaining a 3/4/5★ character or weapon within a set number of tries based on user inputs in the game Genshin Impact. Some statistical knowledge may be required to fully understand and use the application. All probabilities used are based on the theoretical probabilities provided by the developer.

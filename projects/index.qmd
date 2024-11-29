@@ -1,6 +1,6 @@
 ---
 title: Project Overview
-subtitle: "This page provides an overview of my personal projects, separated by medium."
+subtitle: "This page provides an overview of my personal data projects, separated by medium."
 page-layout: full
 format:
   html: 

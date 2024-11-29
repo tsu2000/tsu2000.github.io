@@ -40,6 +40,7 @@ website:
       contents:
         - text: "Project Overview"
           href: projects/index.qmd
+        - text: "---"
         - text: "Shiny Projects"
           href: projects/rshiny_apps/index.qmd
         - text: "Streamlit Projects"

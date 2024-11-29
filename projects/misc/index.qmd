@@ -4,7 +4,17 @@ subtitle: "All other miscellaneous projects are located here."
 page-layout: full
 ---
 
-## Exploratory Data Analysis with Jupyter Notebooks
+## Bank Churn Analysis
+
+<img src="img/bank_churn.png" style="height: 100%; width: 100%; object-fit: contain"/>
+
+<a href="https://github.com/tsu2000/bank_churn_analysis/tree/main" target="_blank">Code</a><br>
+
+A GitHub repository featuring data analysis and predictive modeling for a bank customer churn dataset (from Kaggle) using Jupyter. The project addresses the business objective of identifying customers likely to churn, enabling targeted retention strategies. The project includes data preprocessing and exploratory data analysis (EDA) performed using `pandas`, `matplotlib`, and other Python libraries, with outputs saved for reproducibility. Classification machine learning techniques with `sklearn`, including model evaluation and hyperparameter tuning, are applied to predict customer churn. All code and outputs are reproducible, showcasing a structured and transparent approach to data analysis.
+
+------------------------------------------------------------------------
+
+## Other Exploratory Data Analysis with Jupyter Notebooks
 
 <img src="img/data_viz.png" style="height: 100%; width: 100%; object-fit: contain"/>
 

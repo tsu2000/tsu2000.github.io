@@ -1,24 +1,113 @@
 [
   {
-    "objectID": "blog/index.html",
-    "href": "blog/index.html",
-    "title": "Blog",
+    "objectID": "projects/tableau_apps/index.html",
+    "href": "projects/tableau_apps/index.html",
+    "title": "Tableau Projects",
     "section": "",
-    "text": "Structured Query Langauge: Unraveling the language of databases\n\n\n\n\n\n\n\nsql\n\n\nanalytics\n\n\ndatabases\n\n\ndata\n\n\nchatgpt\n\n\n\n\n\n\n\n\n\n\n\n24th July, 2023\n\n\nChatGPT\n\n\n\n\n\n\n  \n\n\n\n\nThe Irreplaceable Role of Auditors: Why Their Expertise Endures\n\n\n\n\n\n\n\nchatgpt\n\n\nai\n\n\naudit\n\n\nfinance\n\n\n\n\n\n\n\n\n\n\n\n20th July, 2023\n\n\nChatGPT\n\n\n\n\n\n\nNo matching items"
+    "text": "Link to dashboard\nA dashboard comparing several employment statistics of fresh graduates from the “Big 3” universities in Singapore (NUS, NTU and SMU) including factors such as employment rate and mean income, across different undergraduate degree programs in the different universities. Data was sourced from the annual Graduate Employment survey from 2013 to 2021.",
+    "crumbs": [
+      "Projects",
+      "Tableau Projects"
+    ]
   },
   {
-    "objectID": "blog/posts/post_1_ai_audit/index.html",
-    "href": "blog/posts/post_1_ai_audit/index.html",
-    "title": "The Irreplaceable Role of Auditors: Why Their Expertise Endures",
+    "objectID": "projects/tableau_apps/index.html#singapore-university-graduate-employment-statistics",
+    "href": "projects/tableau_apps/index.html#singapore-university-graduate-employment-statistics",
+    "title": "Tableau Projects",
     "section": "",
-    "text": "In today’s fast-paced technological landscape, the rise of artificial intelligence and automation has sparked debates about the future of various professions, including auditors. As machines become more advanced, the question arises: Will auditors be replaced by algorithms and AI-driven tools? In this blog post, we will explore why auditors are unlikely to be replaced anytime soon and why their indispensable expertise remains crucial in ensuring trust, transparency, and accuracy in financial reporting.\n\nThe Human Touch: Auditors are not merely number-crunching machines. They possess a unique blend of human judgment, intuition, and critical thinking. While automation can streamline repetitive tasks and data analysis, it lacks the context-driven decision-making that auditors bring to the table. Auditors consider business intricacies, industry knowledge, and company-specific risks to offer a comprehensive and nuanced evaluation that goes beyond raw data.\nComplex and Dynamic Scenarios: Modern businesses operate in complex and ever-changing environments. Auditors must navigate intricate financial structures, diverse accounting standards, and evolving regulatory landscapes. Their adaptability, problem-solving skills, and ability to interpret non-financial information ensure that audits remain accurate and relevant in a rapidly evolving world.\nNon-Financial Factors: Financial statements alone do not provide a holistic picture of an organization. Auditors scrutinize non-financial factors, such as corporate culture, ethical practices, and risk management, to assess an entity’s overall health and compliance. Incorporating these qualitative assessments into an audit requires human judgment and the ability to assess intangible aspects of an organization’s operations.\nRelationship Building and Communication: Auditors interact with key stakeholders, including clients, shareholders, and regulators. Their interpersonal skills and effective communication are vital in understanding business operations, building trust, and explaining complex financial matters to various audiences. Human interaction and empathetic communication are hard to replicate through automation.\nFraud Detection and Ethical Considerations: Auditors play a critical role in detecting fraudulent activities and ensuring adherence to ethical standards. Their intuition, experience, and skepticism act as a safeguard against financial malpractices. Ethical judgment and situational awareness are attributes that cannot be programmed into machines.\nEvolving Role of Auditors: Rather than being replaced, auditors are evolving to keep pace with technological advancements. They are embracing data analytics, artificial intelligence, and automation to enhance the efficiency and effectiveness of audits. Technology serves as a tool to augment auditors’ capabilities, not a substitute for their expertise.\n\nThe role of auditors extends far beyond the boundaries of data analysis. Their human expertise, ethical judgment, adaptability, and critical thinking remain invaluable assets in safeguarding financial integrity, corporate governance, and investor confidence. While technology continues to shape the audit profession, auditors are indispensable in ensuring trust, transparency, and accountability in an ever-changing financial landscape. The human touch, combined with the power of technology, will continue to fortify the auditors’ relevance and resilience in the years to come."
+    "text": "Link to dashboard\nA dashboard comparing several employment statistics of fresh graduates from the “Big 3” universities in Singapore (NUS, NTU and SMU) including factors such as employment rate and mean income, across different undergraduate degree programs in the different universities. Data was sourced from the annual Graduate Employment survey from 2013 to 2021.",
+    "crumbs": [
+      "Projects",
+      "Tableau Projects"
+    ]
   },
   {
-    "objectID": "blog/posts/post_2_sql/index.html",
-    "href": "blog/posts/post_2_sql/index.html",
-    "title": "Structured Query Langauge: Unraveling the language of databases",
+    "objectID": "projects/tableau_apps/index.html#world-happiness-report-dashboard-2024",
+    "href": "projects/tableau_apps/index.html#world-happiness-report-dashboard-2024",
+    "title": "Tableau Projects",
+    "section": "World Happiness Report Dashboard (2024)",
+    "text": "World Happiness Report Dashboard (2024)\n\nLink to dashboard\nA visualisation of overall happiness across the world over time using the Cantril Ladder score as a benchmark, in which participants are asked to rank their own lives on a scale of 0 to 10, with 0 being the worst possible lives for them, and 10 being the best possible lives. All the data used in the dashboard was collected from past and current iterations of the World Happiness Report, which aims to review to review and assess the state of happiness in the world using data.",
+    "crumbs": [
+      "Projects",
+      "Tableau Projects"
+    ]
+  },
+  {
+    "objectID": "projects/rshiny_apps/index.html",
+    "href": "projects/rshiny_apps/index.html",
+    "title": "Shiny Projects",
     "section": "",
-    "text": "Structured Query Language (SQL) is a powerful and ubiquitous language that plays a central role in the world of data management and database systems. Whether you are a budding data analyst or an aspiring software developer, understanding SQL is essential for effectively working with relational databases. In this blog post, we will unravel the mysteries of SQL, exploring its purpose, structure, and introducing some of its important commands.\n\nWhat is SQL? SQL, short for Structured Query Language, is a domain-specific language designed for managing, querying, and manipulating relational databases. It provides a standardized way to interact with databases, making it possible to store, retrieve, update, and delete data efficiently. SQL allows users to define database structures, perform complex data operations, and ensure data integrity, all through concise and powerful commands.\nKey SQL Commands:\n\nSELECT: The SELECT statement is one of the most fundamental commands in SQL. It allows you to retrieve data from one or more database tables. You can specify the columns to fetch, apply filters using the WHERE clause, and even perform aggregate functions like SUM, COUNT, AVG, etc.\nINSERT: The INSERT statement is used to add new records to a database table. It allows you to specify the table name and the values to be inserted into each column, creating new rows of data.\nUPDATE: The UPDATE statement is employed to modify existing records in a database table. You can use the SET clause to update specific columns’ values and use the WHERE clause to filter the rows to be updated.\nDELETE: The DELETE statement is used to remove records from a database table. Like the UPDATE statement, it can also be combined with the WHERE clause to selectively delete specific rows.\n\nCreating and Modifying Database Structures:\n\nCREATE TABLE: The CREATE TABLE statement is used to create a new database table. It defines the table’s columns, their data types, and any constraints like primary keys or foreign keys.\nALTER TABLE: The ALTER TABLE statement allows you to modify an existing table’s structure. You can add or drop columns, change data types, or add constraints.\n\nFiltering and Sorting Data:\n\nWHERE: The WHERE clause is used to filter data based on specific conditions. It allows you to retrieve only the records that meet the specified criteria.\nORDER BY: The ORDER BY clause is used to sort the retrieved data in ascending or descending order based on one or more columns.\n\nSyntax Variations:\nWhile SQL serves as the standardized language for interacting with relational databases, it’s important to note that different database management systems may have their own variations in SQL syntax. For example, MySQL, PostgreSQL, SQL Server, and Oracle Database, among others, may exhibit subtle differences in how they handle certain SQL commands, data types, and even functions.\n\nThese syntax variations may include slight differences in naming conventions, data type handling, date formats, and more. Therefore, when working with different database systems, it’s essential to be aware of these nuances and adapt the SQL queries accordingly.\nSQL is the cornerstone of data management, enabling efficient data retrieval, manipulation, and organization within relational databases. By mastering key SQL commands, you can harness the full potential of databases and leverage data-driven insights for decision-making and application development. As you dive deeper into the world of SQL, you’ll unlock endless possibilities to explore, analyze, and extract meaningful information from vast datasets."
+    "text": "Link to web app | Code\nA web app to visualise historical yields and predict future yield rates of Singapore T-Bills and SGS Bonds with the forecast package and time series analysis. The app uses daily historical yields to predict the next month of yields. Data is taken from the Monetary Authority of Singapore (MAS) and data is expected to be updated monthly.",
+    "crumbs": [
+      "Projects",
+      "Shiny Projects"
+    ]
+  },
+  {
+    "objectID": "projects/rshiny_apps/index.html#bondscope-sg",
+    "href": "projects/rshiny_apps/index.html#bondscope-sg",
+    "title": "Shiny Projects",
+    "section": "",
+    "text": "Link to web app | Code\nA web app to visualise historical yields and predict future yield rates of Singapore T-Bills and SGS Bonds with the forecast package and time series analysis. The app uses daily historical yields to predict the next month of yields. Data is taken from the Monetary Authority of Singapore (MAS) and data is expected to be updated monthly.",
+    "crumbs": [
+      "Projects",
+      "Shiny Projects"
+    ]
+  },
+  {
+    "objectID": "projects/rshiny_apps/index.html#exercise-book",
+    "href": "projects/rshiny_apps/index.html#exercise-book",
+    "title": "Shiny Projects",
+    "section": "exeRcise book",
+    "text": "exeRcise book\n\nLink to web app | Code\nA simple web application consisting of basic programming questions for beginner programmers to learn both R syntax and programming methodology in R. Based off the exbook package in Python, a package containing LeetCode-style practice problems for new coders.",
+    "crumbs": [
+      "Projects",
+      "Shiny Projects"
+    ]
+  },
+  {
+    "objectID": "projects/rshiny_apps/index.html#stock-trading-app",
+    "href": "projects/rshiny_apps/index.html#stock-trading-app",
+    "title": "Shiny Projects",
+    "section": "Stock Trading App",
+    "text": "Stock Trading App\n\nLink to web app | Code\nA barebones stock trading app made using the quantmod package. The app allows users to select several different stock tickers at once and view the price trend as a line chart over a selected time period. It also shows the last publicly traded price. Note: All data is from Yahoo Finance, and the price of each stock is reflected in its respective local currency.",
+    "crumbs": [
+      "Projects",
+      "Shiny Projects"
+    ]
+  },
+  {
+    "objectID": "projects/rshiny_apps/index.html#arithmetic-quiz",
+    "href": "projects/rshiny_apps/index.html#arithmetic-quiz",
+    "title": "Shiny Projects",
+    "section": "Arithmetic Quiz",
+    "text": "Arithmetic Quiz\n\nLink to web app | Code\nA timed arithmetic quiz with several different adjustable parameters to learn how the reactive programming aspect of Shiny works.",
+    "crumbs": [
+      "Projects",
+      "Shiny Projects"
+    ]
+  },
+  {
+    "objectID": "projects/index.html",
+    "href": "projects/index.html",
+    "title": "Project Overview",
+    "section": "",
+    "text": "R Shiny \n\n\n Streamlit \n\n\n Tableau \n\n\n Misc. projects \n\n\n\n\n All projects",
+    "crumbs": [
+      "Projects",
+      "Project Overview"
+    ]
+  },
+  {
+    "objectID": "projects/index.html#choose-a-type-of-project-to-explore",
+    "href": "projects/index.html#choose-a-type-of-project-to-explore",
+    "title": "Project Overview",
+    "section": "",
+    "text": "R Shiny \n\n\n Streamlit \n\n\n Tableau \n\n\n Misc. projects \n\n\n\n\n All projects",
+    "crumbs": [
+      "Projects",
+      "Project Overview"
+    ]
   },
   {
     "objectID": "cv/index.html",
@@ -28,143 +117,141 @@
     "text": "Download current CV"
   },
   {
+    "objectID": "blog/posts/post_1_ai_audit/index.html",
+    "href": "blog/posts/post_1_ai_audit/index.html",
+    "title": "The Irreplaceable Role of Auditors: Why Their Expertise Endures",
+    "section": "",
+    "text": "In today’s fast-paced technological landscape, the rise of artificial intelligence and automation has sparked debates about the future of various professions, including auditors. As machines become more advanced, the question arises: Will auditors be replaced by algorithms and AI-driven tools? In this blog post, we will explore why auditors are unlikely to be replaced anytime soon and why their indispensable expertise remains crucial in ensuring trust, transparency, and accuracy in financial reporting.\n\nThe Human Touch: Auditors are not merely number-crunching machines. They possess a unique blend of human judgment, intuition, and critical thinking. While automation can streamline repetitive tasks and data analysis, it lacks the context-driven decision-making that auditors bring to the table. Auditors consider business intricacies, industry knowledge, and company-specific risks to offer a comprehensive and nuanced evaluation that goes beyond raw data.\nComplex and Dynamic Scenarios: Modern businesses operate in complex and ever-changing environments. Auditors must navigate intricate financial structures, diverse accounting standards, and evolving regulatory landscapes. Their adaptability, problem-solving skills, and ability to interpret non-financial information ensure that audits remain accurate and relevant in a rapidly evolving world.\nNon-Financial Factors: Financial statements alone do not provide a holistic picture of an organization. Auditors scrutinize non-financial factors, such as corporate culture, ethical practices, and risk management, to assess an entity’s overall health and compliance. Incorporating these qualitative assessments into an audit requires human judgment and the ability to assess intangible aspects of an organization’s operations.\nRelationship Building and Communication: Auditors interact with key stakeholders, including clients, shareholders, and regulators. Their interpersonal skills and effective communication are vital in understanding business operations, building trust, and explaining complex financial matters to various audiences. Human interaction and empathetic communication are hard to replicate through automation.\nFraud Detection and Ethical Considerations: Auditors play a critical role in detecting fraudulent activities and ensuring adherence to ethical standards. Their intuition, experience, and skepticism act as a safeguard against financial malpractices. Ethical judgment and situational awareness are attributes that cannot be programmed into machines.\nEvolving Role of Auditors: Rather than being replaced, auditors are evolving to keep pace with technological advancements. They are embracing data analytics, artificial intelligence, and automation to enhance the efficiency and effectiveness of audits. Technology serves as a tool to augment auditors’ capabilities, not a substitute for their expertise.\n\nThe role of auditors extends far beyond the boundaries of data analysis. Their human expertise, ethical judgment, adaptability, and critical thinking remain invaluable assets in safeguarding financial integrity, corporate governance, and investor confidence. While technology continues to shape the audit profession, auditors are indispensable in ensuring trust, transparency, and accountability in an ever-changing financial landscape. The human touch, combined with the power of technology, will continue to fortify the auditors’ relevance and resilience in the years to come."
+  },
+  {
+    "objectID": "blog/index.html",
+    "href": "blog/index.html",
+    "title": "Blog",
+    "section": "",
+    "text": "Structured Query Langauge: Unraveling the language of databases\n\n\n\n\n\n\nsql\n\n\nanalytics\n\n\ndatabases\n\n\ndata\n\n\nchatgpt\n\n\n\n\n\n\n\n\n\n24th July, 2023\n\n\nChatGPT\n\n\n\n\n\n\n\n\n\n\n\n\nThe Irreplaceable Role of Auditors: Why Their Expertise Endures\n\n\n\n\n\n\nchatgpt\n\n\nai\n\n\naudit\n\n\nfinance\n\n\n\n\n\n\n\n\n\n20th July, 2023\n\n\nChatGPT\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "blog/posts/post_2_sql/index.html",
+    "href": "blog/posts/post_2_sql/index.html",
+    "title": "Structured Query Langauge: Unraveling the language of databases",
+    "section": "",
+    "text": "Structured Query Language (SQL) is a powerful and ubiquitous language that plays a central role in the world of data management and database systems. Whether you are a budding data analyst or an aspiring software developer, understanding SQL is essential for effectively working with relational databases. In this blog post, we will unravel the mysteries of SQL, exploring its purpose, structure, and introducing some of its important commands.\n\nWhat is SQL? SQL, short for Structured Query Language, is a domain-specific language designed for managing, querying, and manipulating relational databases. It provides a standardized way to interact with databases, making it possible to store, retrieve, update, and delete data efficiently. SQL allows users to define database structures, perform complex data operations, and ensure data integrity, all through concise and powerful commands.\nKey SQL Commands:\n\nSELECT: The SELECT statement is one of the most fundamental commands in SQL. It allows you to retrieve data from one or more database tables. You can specify the columns to fetch, apply filters using the WHERE clause, and even perform aggregate functions like SUM, COUNT, AVG, etc.\nINSERT: The INSERT statement is used to add new records to a database table. It allows you to specify the table name and the values to be inserted into each column, creating new rows of data.\nUPDATE: The UPDATE statement is employed to modify existing records in a database table. You can use the SET clause to update specific columns’ values and use the WHERE clause to filter the rows to be updated.\nDELETE: The DELETE statement is used to remove records from a database table. Like the UPDATE statement, it can also be combined with the WHERE clause to selectively delete specific rows.\n\nCreating and Modifying Database Structures:\n\nCREATE TABLE: The CREATE TABLE statement is used to create a new database table. It defines the table’s columns, their data types, and any constraints like primary keys or foreign keys.\nALTER TABLE: The ALTER TABLE statement allows you to modify an existing table’s structure. You can add or drop columns, change data types, or add constraints.\n\nFiltering and Sorting Data:\n\nWHERE: The WHERE clause is used to filter data based on specific conditions. It allows you to retrieve only the records that meet the specified criteria.\nORDER BY: The ORDER BY clause is used to sort the retrieved data in ascending or descending order based on one or more columns.\n\nSyntax Variations:\nWhile SQL serves as the standardized language for interacting with relational databases, it’s important to note that different database management systems may have their own variations in SQL syntax. For example, MySQL, PostgreSQL, SQL Server, and Oracle Database, among others, may exhibit subtle differences in how they handle certain SQL commands, data types, and even functions.\n\nThese syntax variations may include slight differences in naming conventions, data type handling, date formats, and more. Therefore, when working with different database systems, it’s essential to be aware of these nuances and adapt the SQL queries accordingly.\nSQL is the cornerstone of data management, enabling efficient data retrieval, manipulation, and organization within relational databases. By mastering key SQL commands, you can harness the full potential of databases and leverage data-driven insights for decision-making and application development. As you dive deeper into the world of SQL, you’ll unlock endless possibilities to explore, analyze, and extract meaningful information from vast datasets."
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Welcome to my website!",
+    "title": "See how I bring my ideas to life.",
     "section": "",
-    "text": "GitHub\n  \n  \n    \n     LinkedIn\n  \n  \n    \n     Reddit\n  \n  \n    \n     Email\n  \n\n\n\n\nWelcome to my website!\nI am Teng Suan, a Year 3 undergraduate at NUS (National University of Singapore) currently pursuing a Bachelor of Business Administration (Accountancy) with a second specialisation in Business Analytics.\nMy areas of interest lie in business analytics or any adjacent analytics-related fields, including data visualisation, data analytics, data science and machine learning. I am currently looking for my first analytics internship role this summer break from June 2024 to August 2024.\nOn this website, you will find a selection of my portfolio projects, as well as my curriculum vitae which you can easily download.\nPlease feel free to contact me if you have any questions or would like to discuss potential projects."
-  },
-  {
-    "objectID": "projects/index.html",
-    "href": "projects/index.html",
-    "title": "Project Overview",
-    "section": "",
-    "text": "R Shiny \n\n\n Streamlit \n\n\n Tableau \n\n\n Misc. projects \n\n\n\n\n All projects"
-  },
-  {
-    "objectID": "projects/index.html#choose-a-type-of-project-to-explore",
-    "href": "projects/index.html#choose-a-type-of-project-to-explore",
-    "title": "Project Overview",
-    "section": "",
-    "text": "R Shiny \n\n\n Streamlit \n\n\n Tableau \n\n\n Misc. projects \n\n\n\n\n All projects"
+    "text": "GitHub\n  \n  \n    \n     LinkedIn\n  \n  \n    \n     Reddit\n  \n  \n    \n     Email\n  \n\n\n\n\nSee how I bring my ideas to life.\nI am Teng Suan, a final-year undergraduate at the National University of Singapore (NUS), pursuing a Bachelor of Business Administration (Accountancy) with a second specialisation in Business Analytics.\nI am currently seeking my first analytics-related role, with a keen interest in business analytics, data analytics, or data-driven consulting.\nThis website showcases a selection of my personal projects and provides access to my curriculum vitae for download.\nIf you have any questions or would like to discuss potential data projects or job prospects, feel free to contact me."
   },
   {
     "objectID": "projects/misc/index.html",
     "href": "projects/misc/index.html",
     "title": "Misc. Projects",
     "section": "",
-    "text": "Code\nA collection of Jupyter notebooks consisting of EDA on various subjects, with data analysis and data visualisation projects using pandas, matplotlib and other relevant libraries all in Jupyter notebooks with visible outputs and code for reproducability, written in Python. A variety of data visualisation and analysis packages were used. All datasets used in the projects are from Kaggle."
+    "text": "Code\nA GitHub repository featuring data analysis and predictive modeling for a bank customer churn dataset (from Kaggle) using Jupyter. The project addresses the business objective of identifying customers likely to churn, enabling targeted retention strategies. The project includes data preprocessing and exploratory data analysis (EDA) performed using pandas, matplotlib, and other Python libraries, with outputs saved for reproducibility. Classification machine learning techniques with sklearn, including model evaluation and hyperparameter tuning, are applied to predict customer churn. All code and outputs are reproducible, showcasing a structured and transparent approach to data analysis.",
+    "crumbs": [
+      "Projects",
+      "Misc. Projects"
+    ]
   },
   {
-    "objectID": "projects/misc/index.html#exploratory-data-analysis-with-jupyter-notebooks",
-    "href": "projects/misc/index.html#exploratory-data-analysis-with-jupyter-notebooks",
+    "objectID": "projects/misc/index.html#bank-churn-analysis",
+    "href": "projects/misc/index.html#bank-churn-analysis",
     "title": "Misc. Projects",
     "section": "",
-    "text": "Code\nA collection of Jupyter notebooks consisting of EDA on various subjects, with data analysis and data visualisation projects using pandas, matplotlib and other relevant libraries all in Jupyter notebooks with visible outputs and code for reproducability, written in Python. A variety of data visualisation and analysis packages were used. All datasets used in the projects are from Kaggle."
+    "text": "Code\nA GitHub repository featuring data analysis and predictive modeling for a bank customer churn dataset (from Kaggle) using Jupyter. The project addresses the business objective of identifying customers likely to churn, enabling targeted retention strategies. The project includes data preprocessing and exploratory data analysis (EDA) performed using pandas, matplotlib, and other Python libraries, with outputs saved for reproducibility. Classification machine learning techniques with sklearn, including model evaluation and hyperparameter tuning, are applied to predict customer churn. All code and outputs are reproducible, showcasing a structured and transparent approach to data analysis.",
+    "crumbs": [
+      "Projects",
+      "Misc. Projects"
+    ]
+  },
+  {
+    "objectID": "projects/misc/index.html#other-exploratory-data-analysis-with-jupyter-notebooks",
+    "href": "projects/misc/index.html#other-exploratory-data-analysis-with-jupyter-notebooks",
+    "title": "Misc. Projects",
+    "section": "Other Exploratory Data Analysis with Jupyter Notebooks",
+    "text": "Other Exploratory Data Analysis with Jupyter Notebooks\n\nCode\nA collection of Jupyter notebooks consisting of EDA on various subjects, with data analysis and data visualisation projects using pandas, matplotlib and other relevant libraries all in Jupyter notebooks with visible outputs and code for reproducability, written in Python. A variety of data visualisation and analysis packages were used. All datasets used in the projects are from Kaggle.",
+    "crumbs": [
+      "Projects",
+      "Misc. Projects"
+    ]
   },
   {
     "objectID": "projects/misc/index.html#rock-paper-scissors-lizard-spock",
     "href": "projects/misc/index.html#rock-paper-scissors-lizard-spock",
     "title": "Misc. Projects",
     "section": "Rock, Paper, Scissors, Lizard, Spock",
-    "text": "Rock, Paper, Scissors, Lizard, Spock\n\nLink to project\nAn esoteric web game built with Flask which allows users to play an modified version of the classic game “Rock, Paper, and Scissors” with 2 additional moves, “Spock” and “Lizard”. The website is hosted for free on PythonAnywhere.com, so the code is not shown publicly on GitHub."
-  },
-  {
-    "objectID": "projects/rshiny_apps/index.html",
-    "href": "projects/rshiny_apps/index.html",
-    "title": "Shiny Projects",
-    "section": "",
-    "text": "Link to web app | Code\nA simple web application consisting of basic programming questions for beginner programmers to learn both R syntax and programming methodology in R. Based off the exbook package in Python, a package containing LeetCode-style practice problems for new coders."
-  },
-  {
-    "objectID": "projects/rshiny_apps/index.html#exercise-book",
-    "href": "projects/rshiny_apps/index.html#exercise-book",
-    "title": "Shiny Projects",
-    "section": "",
-    "text": "Link to web app | Code\nA simple web application consisting of basic programming questions for beginner programmers to learn both R syntax and programming methodology in R. Based off the exbook package in Python, a package containing LeetCode-style practice problems for new coders."
-  },
-  {
-    "objectID": "projects/rshiny_apps/index.html#stock-trading-app",
-    "href": "projects/rshiny_apps/index.html#stock-trading-app",
-    "title": "Shiny Projects",
-    "section": "Stock Trading App",
-    "text": "Stock Trading App\n\nLink to web app | Code\nA barebones stock trading app made using the quantmod package. The app allows users to select several different stock tickers at once and view the price trend as a line chart over a selected time period. It also shows the last publicly traded price. Note: All data is from Yahoo Finance, and the price of each stock is reflected in its respective local currency."
-  },
-  {
-    "objectID": "projects/rshiny_apps/index.html#arithmetic-quiz",
-    "href": "projects/rshiny_apps/index.html#arithmetic-quiz",
-    "title": "Shiny Projects",
-    "section": "Arithmetic Quiz",
-    "text": "Arithmetic Quiz\n\nLink to web app | Code\nA timed arithmetic quiz with several different adjustable parameters to learn how the reactive programming aspect of Shiny works."
+    "text": "Rock, Paper, Scissors, Lizard, Spock\n\nLink to project\nAn esoteric web game built with Flask which allows users to play an modified version of the classic game “Rock, Paper, and Scissors” with 2 additional moves, “Spock” and “Lizard”. The website is hosted for free on PythonAnywhere.com, so the code is not shown publicly on GitHub.",
+    "crumbs": [
+      "Projects",
+      "Misc. Projects"
+    ]
   },
   {
     "objectID": "projects/streamlit_apps/index.html",
     "href": "projects/streamlit_apps/index.html",
     "title": "Streamlit Projects",
     "section": "",
-    "text": "Link to web app | Code\nA simple classification machine learning project in Python that attempts to make use of the scikit-learn library in Python to try and accurately predict whether a firm is fraudulent using different types of classification models (KNN, Random Forest etc.), and is trained on historical data from diverse firms, where fraudulent activities were previously detected during audits. The dataset is from Kaggle."
+    "text": "Link to web app | Code\nAn interactive web dashboard which shows detailed insights about users and messages in any Telegram chat group. Users must have Telegram Desktop installed to use this app. Do note that currently the app is unable to process chat files greater than 200 MB due to resource constraints imposed on the free tier of Streamlit Community Cloud.",
+    "crumbs": [
+      "Projects",
+      "Streamlit Projects"
+    ]
+  },
+  {
+    "objectID": "projects/streamlit_apps/index.html#telegram-message-dashboard",
+    "href": "projects/streamlit_apps/index.html#telegram-message-dashboard",
+    "title": "Streamlit Projects",
+    "section": "",
+    "text": "Link to web app | Code\nAn interactive web dashboard which shows detailed insights about users and messages in any Telegram chat group. Users must have Telegram Desktop installed to use this app. Do note that currently the app is unable to process chat files greater than 200 MB due to resource constraints imposed on the free tier of Streamlit Community Cloud.",
+    "crumbs": [
+      "Projects",
+      "Streamlit Projects"
+    ]
   },
   {
     "objectID": "projects/streamlit_apps/index.html#machine-learning-classification---audit-fraud-detection",
     "href": "projects/streamlit_apps/index.html#machine-learning-classification---audit-fraud-detection",
     "title": "Streamlit Projects",
-    "section": "",
-    "text": "Link to web app | Code\nA simple classification machine learning project in Python that attempts to make use of the scikit-learn library in Python to try and accurately predict whether a firm is fraudulent using different types of classification models (KNN, Random Forest etc.), and is trained on historical data from diverse firms, where fraudulent activities were previously detected during audits. The dataset is from Kaggle."
+    "section": "Machine Learning (Classification) - Audit Fraud Detection",
+    "text": "Machine Learning (Classification) - Audit Fraud Detection\n\nLink to web app | Code\nA simple classification machine learning project in Python that attempts to make use of the scikit-learn library in Python to try and accurately predict whether a firm is fraudulent using different types of classification models (KNN, Random Forest etc.), and is trained on historical data from diverse firms, where fraudulent activities were previously detected during audits. The dataset is from Kaggle.",
+    "crumbs": [
+      "Projects",
+      "Streamlit Projects"
+    ]
   },
   {
     "objectID": "projects/streamlit_apps/index.html#machine-learning-regression---insurance-pricing",
     "href": "projects/streamlit_apps/index.html#machine-learning-regression---insurance-pricing",
     "title": "Streamlit Projects",
     "section": "Machine Learning (Regression) - Insurance Pricing",
-    "text": "Machine Learning (Regression) - Insurance Pricing\n\nLink to web app | Code\nA basic regression machine learning project in Python which aims to accurately predict insurance charges for an individual based on several input factors, such as age, BMI, number of children etc. and uses the scikit-learn library to determine the accuracy and precision of the regression model (such as linear, ridge etc.) and predict charges. The dataset is from Kaggle."
-  },
-  {
-    "objectID": "projects/streamlit_apps/index.html#telegram-message-dashboard",
-    "href": "projects/streamlit_apps/index.html#telegram-message-dashboard",
-    "title": "Streamlit Projects",
-    "section": "Telegram Message Dashboard",
-    "text": "Telegram Message Dashboard\n\nLink to web app | Code\nAn interactive web dashboard which shows detailed insights about users and messages in any Telegram chat group. Users must have Telegram Desktop installed to use this app. Do note that currently the app is unable to process chat files greater than 200 MB due to resource constraints imposed on the free tier of Streamlit Community Cloud."
+    "text": "Machine Learning (Regression) - Insurance Pricing\n\nLink to web app | Code\nA basic regression machine learning project in Python which aims to accurately predict insurance charges for an individual based on several input factors, such as age, BMI, number of children etc. and uses the scikit-learn library to determine the accuracy and precision of the regression model (such as linear, ridge etc.) and predict charges. The dataset is from Kaggle.",
+    "crumbs": [
+      "Projects",
+      "Streamlit Projects"
+    ]
   },
   {
     "objectID": "projects/streamlit_apps/index.html#binomial-options-pricing-model-visualisation-and-calculator",
     "href": "projects/streamlit_apps/index.html#binomial-options-pricing-model-visualisation-and-calculator",
     "title": "Streamlit Projects",
     "section": "Binomial Options Pricing Model Visualisation and Calculator",
-    "text": "Binomial Options Pricing Model Visualisation and Calculator\n\nLink to web app | Code\nA web application designed for students studying options pricing, offering an interactive Binomial Options Pricing Model (or CRR Model) tool. It allows users to create and visualize a binomial tree model with custom parameters, export data to Excel and PDF files, and provides detailed explanations of the model’s workings."
+    "text": "Binomial Options Pricing Model Visualisation and Calculator\n\nLink to web app | Code\nA web application designed for students studying options pricing, offering an interactive Binomial Options Pricing Model (or CRR Model) tool. It allows users to create and visualize a binomial tree model with custom parameters, export data to Excel and PDF files, and provides detailed explanations of the model’s workings.",
+    "crumbs": [
+      "Projects",
+      "Streamlit Projects"
+    ]
   },
   {
     "objectID": "projects/streamlit_apps/index.html#gpa-calculator---exclusively-for-nus-students",
     "href": "projects/streamlit_apps/index.html#gpa-calculator---exclusively-for-nus-students",
     "title": "Streamlit Projects",
     "section": "GPA Calculator - Exclusively for NUS students",
-    "text": "GPA Calculator - Exclusively for NUS students\n\nLink to web app | Code\nA web app which allows NUS (National University of Singapore) students to easily keep track of the course they have taken in an Excel spreadsheet and provide detailed statistics on their GPA and courses taken. All data on courses is up-to-date and provided by the NUSMods API here."
-  },
-  {
-    "objectID": "projects/streamlit_apps/index.html#genshin-impact-gacha-wish-simulator",
-    "href": "projects/streamlit_apps/index.html#genshin-impact-gacha-wish-simulator",
-    "title": "Streamlit Projects",
-    "section": "Genshin Impact Gacha Wish Simulator",
-    "text": "Genshin Impact Gacha Wish Simulator\n\nLink to web app | Code\nA web app for calculating the chances of obtaining a 3/4/5★ character or weapon within a set number of tries based on user inputs in the game Genshin Impact. Some statistical knowledge may be required to fully understand and use the application. All probabilities used are based on the theoretical probabilities provided by the developer."
-  },
-  {
-    "objectID": "projects/tableau_apps/index.html",
-    "href": "projects/tableau_apps/index.html",
-    "title": "Tableau Projects",
-    "section": "",
-    "text": "Link to dashboard\nA dashboard comparing several employment statistics of fresh graduates from the “Big 3” universities in Singapore (NUS, NTU and SMU) including factors such as employment rate and mean income, across different undergraduate degree programs in the different universities. Data was sourced from the annual Graduate Employment survey from 2013 to 2021."
-  },
-  {
-    "objectID": "projects/tableau_apps/index.html#singapore-university-graduate-employment-statistics",
-    "href": "projects/tableau_apps/index.html#singapore-university-graduate-employment-statistics",
-    "title": "Tableau Projects",
-    "section": "",
-    "text": "Link to dashboard\nA dashboard comparing several employment statistics of fresh graduates from the “Big 3” universities in Singapore (NUS, NTU and SMU) including factors such as employment rate and mean income, across different undergraduate degree programs in the different universities. Data was sourced from the annual Graduate Employment survey from 2013 to 2021."
-  },
-  {
-    "objectID": "projects/tableau_apps/index.html#world-happiness-report-dashboard-2024",
-    "href": "projects/tableau_apps/index.html#world-happiness-report-dashboard-2024",
-    "title": "Tableau Projects",
-    "section": "World Happiness Report Dashboard (2024)",
-    "text": "World Happiness Report Dashboard (2024)\n\nLink to dashboard\nA visualisation of overall happiness across the world over time using the Cantril Ladder score as a benchmark, in which participants are asked to rank their own lives on a scale of 0 to 10, with 0 being the worst possible lives for them, and 10 being the best possible lives. All the data used in the dashboard was collected from past and current iterations of the World Happiness Report, which aims to review to review and assess the state of happiness in the world using data."
+    "text": "GPA Calculator - Exclusively for NUS students\n\nLink to web app | Code\nA web app which allows NUS (National University of Singapore) students to easily keep track of the course they have taken in an Excel spreadsheet and provide detailed statistics on their GPA and courses taken. All data on courses is up-to-date and provided by the NUSMods API here.",
+    "crumbs": [
+      "Projects",
+      "Streamlit Projects"
+    ]
   }
 ]
