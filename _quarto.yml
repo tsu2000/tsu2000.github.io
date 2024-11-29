@@ -38,7 +38,7 @@ website:
       collapse-level: 2
       align: left
       contents:
-        - text: "Project Overview"
+        - text: "**Project Overview**"
           href: projects/index.qmd
         - text: "---"
         - text: "Shiny Projects"
