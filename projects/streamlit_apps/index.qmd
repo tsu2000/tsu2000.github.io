@@ -1,0 +1,23 @@
+---
+title: Streamlit Projects
+subtitle: "Projects written in the Python programming language using the `streamlit` library to create interactive web applications, hosted for free on Streamlit Community Cloud."
+page-layout: full
+---
+
+## Telegram Message Dashboard
+
+<img src="img/tele_dash.png" style="height: 100%; width: 100%; object-fit: contain"/>
+
+<a href="https://tele-dash.streamlit.app" target="_blank">Link to web app</a> \| <a href="https://github.com/tsu2000/tele_dashboard" target="_blank">Code</a><br>
+
+An interactive web dashboard which shows detailed insights about users and messages in any Telegram chat group such as user with most messages, when the chat history was most active, etc. Users must have [Telegram Desktop](https://desktop.telegram.org) installed to use this app. Do note that currently the app is unable to process chat files greater than 200 MB due to resource constraints imposed on the free tier of Streamlit Community Cloud.
+
+------------------------------------------------------------------------
+
+## Binomial Options Pricing Model Visualisation and Calculator
+
+<img src="img/bopm.png" style="height: 100%; width: 100%; object-fit: contain"/>
+
+<a href="https://binomtree.streamlit.app" target="_blank">Link to web app</a> \| <a href="https://github.com/tsu2000/binom_tree" target="_blank">Code</a><br>
+
+A web application designed for students studying options pricing, offering an interactive Binomial Options Pricing Model (or CRR Model) tool. It allows users to create and visualize a binomial tree model with custom parameters, export data to Excel and PDF files, and provides detailed explanations of the model's workings.

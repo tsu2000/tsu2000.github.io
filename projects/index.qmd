@@ -1,0 +1,34 @@
+---
+title: Project Overview
+subtitle: "This page provides an overview of my personal projects, separated by medium. The projects span a wide range of my interests, including data science and analytics, data visualisation, financial modeling, educational tools, and interactive web applications."
+page-layout: full
+format:
+  html: 
+    css: tools.css
+---
+
+## Choose a type of project to explore:
+
+::: {layout-ncol=5 .tool}
+
+<a href="rshiny_apps/index.qmd" role="button" class="btn btn-outline-light">
+![](logos/shiny.png){width="77" height="77" fig-alt="Shiny logo."}<br />Shiny for R
+</a>
+
+<a href="streamlit_apps/index.qmd" role="button" class="btn btn-outline-light">
+![](logos/streamlit.png){width="77" height="77" fig-alt="Streamlit logo."}<br />Streamlit
+</a>
+
+<a href="tableau_apps/index.qmd" role="button" class="btn btn-outline-light">
+![](logos/tableau.png){width="77" height="77" fig-alt="Github logo."}<br />Tableau
+</a>
+
+<a href="notebooks/index.qmd" role="button" class="btn btn-outline-light">
+![](logos/jupyter.png){width="77" height="77" fig-alt="Jupyter logo."}<br />Notebooks
+</a>
+
+<a href="https://github.com/tsu2000" role="button" class="btn btn-outline-light">
+![](logos/github.png){width="77" height="77" fig-alt="Github logo."}<br />My GitHub 
+</a>
+
+:::

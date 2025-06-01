@@ -1,0 +1,32 @@
+---
+about:
+  template: jolla
+  id: about-block
+  image: "img/my_image.jpg"
+  image-shape: rounded
+  links:
+    - icon: github
+      text: GitHub
+      href: https://github.com/tsu2000
+    - icon: linkedin
+      text: LinkedIn
+      href: "https://sg.linkedin.com/in/teng-suan-ng-890876259"
+    - icon: reddit
+      text: Reddit
+      href: https://www.reddit.com/user/HedgehogOk6207
+    - icon: envelope
+      text: Email
+      href: "mailto:mail.ngtengsuan@gmail.com"  
+sidebar: false
+---
+
+::: {#about-block}
+:::
+
+# See how I turn data into decisions.
+
+I am Teng Suan, a recent Bachelor of Business Administration (BBA) graduate from the National University of Singapore (NUS), with a strong interest in business analytics, data science, and data-driven consulting.
+
+This website features a selection of my personal projects and includes my CV for download.
+
+If you have any questions or would like to discuss potential projects, feel free to [contact me](mailto:mail.ngtengsuan@gmail.com).

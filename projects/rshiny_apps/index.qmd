@@ -1,0 +1,23 @@
+---
+title: Shiny Projects
+subtitle: "Projects written in the R programming language using the `shiny` package. All apps are hosted on the free tier of shinyapps.io."
+page-layout: full
+---
+
+## SGX OLS Analysis
+
+<img src="img/sgx_ols.png" style="height: 100%; width: 100%; object-fit: contain"/>
+
+<a href="https://tsu2000.shinyapps.io/sgx_ols/" target="_blank">Link to web app</a> \| <a href="https://github.com/tsu2000/sgx_ols_perf" target="_blank">Code</a><br>
+
+A web app to identify the financial drivers of profitability among SGX-listed firms using OLS regression and robust econometric techniques. The app analyzes how lagged financial indicators (e.g. debt ratios, margins, asset turnover) affect current profitability (ROA, ROE, etc.), with support for heteroskedasticity-robust errors and regression diagnostics. Users can also filter by industry and financial year-end. Financial data from SGX firms was collected via the `yfinance` API in a Jupyter Notebook for pre-processing before analysis shown [here](https://github.com/tsu2000/sgx_ols_perf/blob/main/scrape_sgx_financials.ipynb).
+
+------------------------------------------------------------------------
+
+## exeRcise book
+
+<img src="img/exbook.png" style="height: 100%; width: 100%; object-fit: contain"/>
+
+<a href="https://tsu2000.shinyapps.io/exbook/" target="_blank">Link to web app</a> \| <a href="https://github.com/tsu2000/exbook_R" target="_blank">Code</a><br>
+
+A simple web application consisting of basic programming questions for beginner programmers to learn both R syntax and programming methodology in R. Based off the `exbook` package in Python, a package containing basic LeetCode-style practice problems for new coders.
