@@ -1,16 +1,16 @@
 ---
 title: Shiny Projects
-subtitle: "Projects written in the R programming language using the `shiny` package. All apps are hosted on the free tier of shinyapps.io."
+subtitle: "Data projects written in the R programming language using the `shiny` package. All apps are hosted on the free tier of shinyapps.io."
 page-layout: full
 ---
 
-## SGX OLS Analysis
+## BondScope SG
 
-<img src="img/sgx_ols.png" style="height: 100%; width: 100%; object-fit: contain"/>
+<img src="img/sgs.png" style="height: 100%; width: 100%; object-fit: contain"/>
 
-<a href="https://tsu2000.shinyapps.io/sgx_ols/" target="_blank">Link to web app</a> \| <a href="https://github.com/tsu2000/sgx_ols_perf" target="_blank">Code</a><br>
+<a href="https://tsu2000.shinyapps.io/bondscope_sg/" target="_blank">Link to web app</a> \| <a href="https://github.com/tsu2000/bondscope_sg" target="_blank">Code</a><br>
 
-A web app to identify the financial drivers of profitability among SGX-listed firms using OLS regression and robust econometric techniques. The app analyzes how lagged financial indicators (e.g. debt ratios, margins, asset turnover) affect current profitability (ROA, ROE, etc.), with support for heteroskedasticity-robust errors and regression diagnostics. Users can also filter by industry and financial year-end. Financial data from SGX firms was collected via the `yfinance` API in a Jupyter Notebook for pre-processing before analysis shown [here](https://github.com/tsu2000/sgx_ols_perf/blob/main/scrape_sgx_financials.ipynb).
+A web app to visualise historical yields and predict future yield rates of Singapore T-Bills and SGS Bonds with the `forecast` package and time series analysis. The app uses daily historical yields to predict the next month of yields. Data is taken from the Monetary Authority of Singapore (MAS) and data is expected to be updated monthly.
 
 ------------------------------------------------------------------------
 
@@ -20,4 +20,24 @@ A web app to identify the financial drivers of profitability among SGX-listed fi
 
 <a href="https://tsu2000.shinyapps.io/exbook/" target="_blank">Link to web app</a> \| <a href="https://github.com/tsu2000/exbook_R" target="_blank">Code</a><br>
 
-A simple web application consisting of basic programming questions for beginner programmers to learn both R syntax and programming methodology in R. Based off the `exbook` package in Python, a package containing basic LeetCode-style practice problems for new coders.
+A simple web application consisting of basic programming questions for beginner programmers to learn both R syntax and programming methodology in R. Based off the `exbook` package in Python, a package containing LeetCode-style practice problems for new coders.
+
+------------------------------------------------------------------------
+
+## Stock Trading App
+
+<img src="img/stock_trade.png" style="height: 100%; width: 100%; object-fit: contain"/>
+
+<a href="https://tsu2000.shinyapps.io/stock_trading/" target="_blank">Link to web app</a> \| <a href="https://github.com/tsu2000/stock_trading" target="_blank">Code</a><br>
+
+A barebones stock trading app made using the `quantmod` package. The app allows users to select several different stock tickers at once and view the price trend as a line chart over a selected time period. It also shows the last publicly traded price. Note: All data is from Yahoo Finance, and the price of each stock is reflected in its respective local currency.
+
+------------------------------------------------------------------------
+
+## Arithmetic Quiz
+
+<img src="img/math_quiz.png" style="height: 100%; width: 100%; object-fit: contain"/>
+
+<a href="https://tsu2000.shinyapps.io/math_quiz/" target="_blank">Link to web app</a> \| <a href="https://github.com/tsu2000/math_quiz" target="_blank">Code</a><br>
+
+A timed arithmetic quiz with several different adjustable parameters to learn how the reactive programming aspect of Shiny works.

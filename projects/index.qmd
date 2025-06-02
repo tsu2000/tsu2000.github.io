@@ -1,6 +1,6 @@
 ---
 title: Project Overview
-subtitle: "This page provides an overview of my personal projects, separated by medium. The projects span a wide range of my interests, including data science and analytics, data visualisation, financial modeling, educational tools, and interactive web applications."
+subtitle: "This page provides an overview of my personal data projects, separated by medium."
 page-layout: full
 format:
   html: 
@@ -12,7 +12,7 @@ format:
 ::: {layout-ncol=5 .tool}
 
 <a href="rshiny_apps/index.qmd" role="button" class="btn btn-outline-light">
-![](logos/shiny.png){width="77" height="77" fig-alt="Shiny logo."}<br />Shiny for R
+![](logos/shiny.png){width="77" height="77" fig-alt="Shiny logo."}<br />R Shiny
 </a>
 
 <a href="streamlit_apps/index.qmd" role="button" class="btn btn-outline-light">
@@ -23,12 +23,12 @@ format:
 ![](logos/tableau.png){width="77" height="77" fig-alt="Github logo."}<br />Tableau
 </a>
 
-<a href="notebooks/index.qmd" role="button" class="btn btn-outline-light">
-![](logos/jupyter.png){width="77" height="77" fig-alt="Jupyter logo."}<br />Notebooks
+<a href="misc/index.qmd" role="button" class="btn btn-outline-light">
+![](logos/misc_apps.png){width="77" height="77" fig-alt="Misc projects logo."}<br />Misc. projects
 </a>
 
 <a href="https://github.com/tsu2000" role="button" class="btn btn-outline-light">
-![](logos/github.png){width="77" height="77" fig-alt="Github logo."}<br />My GitHub 
+![](logos/github.png){width="77" height="77" fig-alt="Github logo."}<br />Project Codes
 </a>
 
 :::

@@ -1,6 +1,6 @@
 ---
-title: Tableau Dashboards
-subtitle: "Tableau Dashboards completed and displayed with Tableau Public, a free platform to share data visualisations."
+title: Tableau Projects
+subtitle: "Projects completed and displayed with Tableau Public, a free platform to share data visualisations."
 page-layout: full
 ---
 
@@ -10,7 +10,7 @@ page-layout: full
 
 <a href="https://public.tableau.com/app/profile/teng.suan.ng/viz/SingaporesBig3UniGraduateEmploymentStats/Final" target="_blank">Link to dashboard</a>
 
-A dashboard comparing several employment statistics of fresh graduates from the "Big 3" universities in Singapore (NUS, NTU and SMU) including factors such as employment rate and mean income, across different undergraduate degree programs in the different universities. Data was sourced from the annual Graduate Employment survey from 2013 to 2021 provided by [data.gov.sg](https://data.gov.sg/datasets/d_3c55210de27fcccda2ed0c63fdd2b352/view).
+A dashboard comparing several employment statistics of fresh graduates from the "Big 3" universities in Singapore (NUS, NTU and SMU) including factors such as employment rate and mean income, across different undergraduate degree programs in the different universities. Data was sourced from the annual Graduate Employment survey from 2013 to 2021.
 
 ------------------------------------------------------------------------
 
