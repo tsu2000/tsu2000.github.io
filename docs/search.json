@@ -2,34 +2,34 @@
   {
     "objectID": "projects/tableau_apps/index.html",
     "href": "projects/tableau_apps/index.html",
-    "title": "Tableau Projects",
+    "title": "Tableau Dashboards",
     "section": "",
-    "text": "Link to dashboard\nA dashboard comparing several employment statistics of fresh graduates from the “Big 3” universities in Singapore (NUS, NTU and SMU) including factors such as employment rate and mean income, across different undergraduate degree programs in the different universities. Data was sourced from the annual Graduate Employment survey from 2013 to 2021.",
+    "text": "Link to dashboard\nA dashboard comparing several employment statistics of fresh graduates from the “Big 3” universities in Singapore (NUS, NTU and SMU) including factors such as employment rate and mean income, across different undergraduate degree programs in the different universities. Data was sourced from the annual Graduate Employment survey from 2013 to 2021 provided by data.gov.sg.",
     "crumbs": [
       "Projects",
-      "Tableau Projects"
+      "Tableau Dashboards"
     ]
   },
   {
     "objectID": "projects/tableau_apps/index.html#singapore-university-graduate-employment-statistics",
     "href": "projects/tableau_apps/index.html#singapore-university-graduate-employment-statistics",
-    "title": "Tableau Projects",
+    "title": "Tableau Dashboards",
     "section": "",
-    "text": "Link to dashboard\nA dashboard comparing several employment statistics of fresh graduates from the “Big 3” universities in Singapore (NUS, NTU and SMU) including factors such as employment rate and mean income, across different undergraduate degree programs in the different universities. Data was sourced from the annual Graduate Employment survey from 2013 to 2021.",
+    "text": "Link to dashboard\nA dashboard comparing several employment statistics of fresh graduates from the “Big 3” universities in Singapore (NUS, NTU and SMU) including factors such as employment rate and mean income, across different undergraduate degree programs in the different universities. Data was sourced from the annual Graduate Employment survey from 2013 to 2021 provided by data.gov.sg.",
     "crumbs": [
       "Projects",
-      "Tableau Projects"
+      "Tableau Dashboards"
     ]
   },
   {
     "objectID": "projects/tableau_apps/index.html#world-happiness-report-dashboard-2024",
     "href": "projects/tableau_apps/index.html#world-happiness-report-dashboard-2024",
-    "title": "Tableau Projects",
+    "title": "Tableau Dashboards",
     "section": "World Happiness Report Dashboard (2024)",
     "text": "World Happiness Report Dashboard (2024)\n\nLink to dashboard\nA visualisation of overall happiness across the world over time using the Cantril Ladder score as a benchmark, in which participants are asked to rank their own lives on a scale of 0 to 10, with 0 being the worst possible lives for them, and 10 being the best possible lives. All the data used in the dashboard was collected from past and current iterations of the World Happiness Report, which aims to review to review and assess the state of happiness in the world using data.",
     "crumbs": [
       "Projects",
-      "Tableau Projects"
+      "Tableau Dashboards"
     ]
   },
   {
@@ -37,18 +37,18 @@
     "href": "projects/rshiny_apps/index.html",
     "title": "Shiny Projects",
     "section": "",
-    "text": "Link to web app | Code\nA web app to visualise historical yields and predict future yield rates of Singapore T-Bills and SGS Bonds with the forecast package and time series analysis. The app uses daily historical yields to predict the next month of yields. Data is taken from the Monetary Authority of Singapore (MAS) and data is expected to be updated monthly.",
+    "text": "Link to web app | Code\nA web app to identify the financial drivers of profitability among SGX-listed firms using OLS regression and robust econometric techniques. The app analyzes how lagged financial indicators (e.g. debt ratios, margins, asset turnover) affect current profitability (ROA, ROE, etc.), with support for heteroskedasticity-robust errors and regression diagnostics. Users can also filter by industry and financial year-end. Financial data from SGX firms was collected via the yfinance API in a Jupyter Notebook for pre-processing before analysis shown here.",
     "crumbs": [
       "Projects",
       "Shiny Projects"
     ]
   },
   {
-    "objectID": "projects/rshiny_apps/index.html#bondscope-sg",
-    "href": "projects/rshiny_apps/index.html#bondscope-sg",
+    "objectID": "projects/rshiny_apps/index.html#sgx-ols-analysis",
+    "href": "projects/rshiny_apps/index.html#sgx-ols-analysis",
     "title": "Shiny Projects",
     "section": "",
-    "text": "Link to web app | Code\nA web app to visualise historical yields and predict future yield rates of Singapore T-Bills and SGS Bonds with the forecast package and time series analysis. The app uses daily historical yields to predict the next month of yields. Data is taken from the Monetary Authority of Singapore (MAS) and data is expected to be updated monthly.",
+    "text": "Link to web app | Code\nA web app to identify the financial drivers of profitability among SGX-listed firms using OLS regression and robust econometric techniques. The app analyzes how lagged financial indicators (e.g. debt ratios, margins, asset turnover) affect current profitability (ROA, ROE, etc.), with support for heteroskedasticity-robust errors and regression diagnostics. Users can also filter by industry and financial year-end. Financial data from SGX firms was collected via the yfinance API in a Jupyter Notebook for pre-processing before analysis shown here.",
     "crumbs": [
       "Projects",
       "Shiny Projects"
@@ -59,29 +59,7 @@
     "href": "projects/rshiny_apps/index.html#exercise-book",
     "title": "Shiny Projects",
     "section": "exeRcise book",
-    "text": "exeRcise book\n\nLink to web app | Code\nA simple web application consisting of basic programming questions for beginner programmers to learn both R syntax and programming methodology in R. Based off the exbook package in Python, a package containing LeetCode-style practice problems for new coders.",
-    "crumbs": [
-      "Projects",
-      "Shiny Projects"
-    ]
-  },
-  {
-    "objectID": "projects/rshiny_apps/index.html#stock-trading-app",
-    "href": "projects/rshiny_apps/index.html#stock-trading-app",
-    "title": "Shiny Projects",
-    "section": "Stock Trading App",
-    "text": "Stock Trading App\n\nLink to web app | Code\nA barebones stock trading app made using the quantmod package. The app allows users to select several different stock tickers at once and view the price trend as a line chart over a selected time period. It also shows the last publicly traded price. Note: All data is from Yahoo Finance, and the price of each stock is reflected in its respective local currency.",
-    "crumbs": [
-      "Projects",
-      "Shiny Projects"
-    ]
-  },
-  {
-    "objectID": "projects/rshiny_apps/index.html#arithmetic-quiz",
-    "href": "projects/rshiny_apps/index.html#arithmetic-quiz",
-    "title": "Shiny Projects",
-    "section": "Arithmetic Quiz",
-    "text": "Arithmetic Quiz\n\nLink to web app | Code\nA timed arithmetic quiz with several different adjustable parameters to learn how the reactive programming aspect of Shiny works.",
+    "text": "exeRcise book\n\nLink to web app | Code\nA simple web application consisting of basic programming questions for beginner programmers to learn both R syntax and programming methodology in R. Based off the exbook package in Python, a package containing basic LeetCode-style practice problems for new coders.",
     "crumbs": [
       "Projects",
       "Shiny Projects"
@@ -92,7 +70,7 @@
     "href": "projects/index.html",
     "title": "Project Overview",
     "section": "",
-    "text": "R Shiny \n\n\n Streamlit \n\n\n Tableau \n\n\n Misc. projects \n\n\n Project Codes",
+    "text": "Shiny for R \n\n\n Streamlit \n\n\n Tableau \n\n\n Notebooks \n\n\n My GitHub",
     "crumbs": [
       "Projects",
       "**Project Overview**"
@@ -103,7 +81,7 @@
     "href": "projects/index.html#choose-a-type-of-project-to-explore",
     "title": "Project Overview",
     "section": "",
-    "text": "R Shiny \n\n\n Streamlit \n\n\n Tableau \n\n\n Misc. projects \n\n\n Project Codes",
+    "text": "Shiny for R \n\n\n Streamlit \n\n\n Tableau \n\n\n Notebooks \n\n\n My GitHub",
     "crumbs": [
       "Projects",
       "**Project Overview**"
@@ -140,52 +118,41 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "See how I bring my ideas to life.",
+    "title": "See how I turn data into decisions.",
     "section": "",
-    "text": "GitHub\n  \n  \n    \n     LinkedIn\n  \n  \n    \n     Reddit\n  \n  \n    \n     Email\n  \n\n\n\n\nSee how I bring my ideas to life.\nI am Teng Suan, a final-year undergraduate at the National University of Singapore (NUS), pursuing a Bachelor of Business Administration (Accountancy) with a second specialisation in Business Analytics.\nI am currently seeking my first analytics-related role, with a keen interest in business analytics, data analytics, or data-driven consulting.\nThis website showcases a selection of my personal projects and provides access to my curriculum vitae for download.\nIf you have any questions or would like to discuss potential data projects or job prospects, feel free to contact me."
+    "text": "GitHub\n  \n  \n    \n     LinkedIn\n  \n  \n    \n     Reddit\n  \n  \n    \n     Email\n  \n\n\n\n\nSee how I turn data into decisions.\nI am Teng Suan, a recent Bachelor of Business Administration (BBA) graduate from the National University of Singapore (NUS), with a strong interest in business analytics, data science, and data-driven consulting.\nThis website features a selection of my personal projects and includes my CV for download.\nIf you have any questions or would like to discuss potential projects, feel free to contact me."
   },
   {
-    "objectID": "projects/misc/index.html",
-    "href": "projects/misc/index.html",
-    "title": "Misc. Projects",
+    "objectID": "projects/notebooks/index.html",
+    "href": "projects/notebooks/index.html",
+    "title": "Data Science Notebooks",
     "section": "",
-    "text": "Code\nA GitHub repository featuring data analysis and predictive modeling for a bank customer churn dataset (from Kaggle) using Jupyter. The project addresses the business objective of identifying customers likely to churn, enabling targeted retention strategies. The project includes data preprocessing and exploratory data analysis (EDA) performed using pandas, matplotlib, and other Python libraries, with outputs saved for reproducibility. Classification machine learning techniques with sklearn, including model evaluation and hyperparameter tuning, are applied to predict customer churn. All code and outputs are reproducible, showcasing a structured and transparent approach to data analysis.",
+    "text": "Code\nA deep learning pipeline and model which uses LSTM networks in PyTorch to predict daily stock price direction (up/down) for S&P 500 stocks. The model uses historical price and volume data from the yfinance package, along with engineered technical indicators, and focuses on directional movement to improve stationarity. Performance is determined by classifying price movements accurately using classification tools from sklearn package, and is benchmarked against perfect foresight and random strategies, with detailed discussion on scalability and real-world limitations of using neural networks for trading stocks.",
     "crumbs": [
       "Projects",
-      "Misc. Projects"
+      "Data Science Notebooks"
     ]
   },
   {
-    "objectID": "projects/misc/index.html#bank-churn-analysis",
-    "href": "projects/misc/index.html#bank-churn-analysis",
-    "title": "Misc. Projects",
+    "objectID": "projects/notebooks/index.html#stock-trading-with-pytorch-and-lstm-networks",
+    "href": "projects/notebooks/index.html#stock-trading-with-pytorch-and-lstm-networks",
+    "title": "Data Science Notebooks",
     "section": "",
-    "text": "Code\nA GitHub repository featuring data analysis and predictive modeling for a bank customer churn dataset (from Kaggle) using Jupyter. The project addresses the business objective of identifying customers likely to churn, enabling targeted retention strategies. The project includes data preprocessing and exploratory data analysis (EDA) performed using pandas, matplotlib, and other Python libraries, with outputs saved for reproducibility. Classification machine learning techniques with sklearn, including model evaluation and hyperparameter tuning, are applied to predict customer churn. All code and outputs are reproducible, showcasing a structured and transparent approach to data analysis.",
+    "text": "Code\nA deep learning pipeline and model which uses LSTM networks in PyTorch to predict daily stock price direction (up/down) for S&P 500 stocks. The model uses historical price and volume data from the yfinance package, along with engineered technical indicators, and focuses on directional movement to improve stationarity. Performance is determined by classifying price movements accurately using classification tools from sklearn package, and is benchmarked against perfect foresight and random strategies, with detailed discussion on scalability and real-world limitations of using neural networks for trading stocks.",
     "crumbs": [
       "Projects",
-      "Misc. Projects"
+      "Data Science Notebooks"
     ]
   },
   {
-    "objectID": "projects/misc/index.html#other-exploratory-data-analysis-with-jupyter-notebooks",
-    "href": "projects/misc/index.html#other-exploratory-data-analysis-with-jupyter-notebooks",
-    "title": "Misc. Projects",
-    "section": "Other Exploratory Data Analysis with Jupyter Notebooks",
-    "text": "Other Exploratory Data Analysis with Jupyter Notebooks\n\nCode\nA collection of Jupyter notebooks consisting of EDA on various subjects, with data analysis and data visualisation projects using pandas, matplotlib and other relevant libraries all in Jupyter notebooks with visible outputs and code for reproducability, written in Python. A variety of data visualisation and analysis packages were used. All datasets used in the projects are from Kaggle.",
+    "objectID": "projects/notebooks/index.html#bank-churn-analysis",
+    "href": "projects/notebooks/index.html#bank-churn-analysis",
+    "title": "Data Science Notebooks",
+    "section": "Bank Churn Analysis",
+    "text": "Bank Churn Analysis\n\nCode\nA GitHub repository featuring data analysis and predictive modeling for a bank customer churn dataset (from Kaggle) on Jupyter Notebook. The project addresses the business objective of identifying customers likely to churn, enabling targeted retention strategies. The project includes data preprocessing and exploratory data analysis (EDA) performed using pandas, matplotlib, and other Python libraries, with outputs saved for reproducibility. Classification machine learning techniques with sklearn, including model evaluation and hyperparameter tuning, are applied to predict customer churn. All code and outputs are reproducible.",
     "crumbs": [
       "Projects",
-      "Misc. Projects"
-    ]
-  },
-  {
-    "objectID": "projects/misc/index.html#rock-paper-scissors-lizard-spock",
-    "href": "projects/misc/index.html#rock-paper-scissors-lizard-spock",
-    "title": "Misc. Projects",
-    "section": "Rock, Paper, Scissors, Lizard, Spock",
-    "text": "Rock, Paper, Scissors, Lizard, Spock\n\nLink to project\nAn esoteric web game built with Flask which allows users to play an modified version of the classic game “Rock, Paper, and Scissors” with 2 additional moves, “Spock” and “Lizard”. The website is hosted for free on PythonAnywhere.com, so the code is not shown publicly on GitHub.",
-    "crumbs": [
-      "Projects",
-      "Misc. Projects"
+      "Data Science Notebooks"
     ]
   },
   {
@@ -193,7 +160,7 @@
     "href": "projects/streamlit_apps/index.html",
     "title": "Streamlit Projects",
     "section": "",
-    "text": "Link to web app | Code\nAn interactive web dashboard which shows detailed insights about users and messages in any Telegram chat group. Users must have Telegram Desktop installed to use this app. Do note that currently the app is unable to process chat files greater than 200 MB due to resource constraints imposed on the free tier of Streamlit Community Cloud.",
+    "text": "Link to web app | Code\nAn interactive web dashboard which shows detailed insights about users and messages in any Telegram chat group such as user with most messages, when the chat history was most active, etc. Users must have Telegram Desktop installed to use this app. Do note that currently the app is unable to process chat files greater than 200 MB due to resource constraints imposed on the free tier of Streamlit Community Cloud.",
     "crumbs": [
       "Projects",
       "Streamlit Projects"
@@ -204,29 +171,7 @@
     "href": "projects/streamlit_apps/index.html#telegram-message-dashboard",
     "title": "Streamlit Projects",
     "section": "",
-    "text": "Link to web app | Code\nAn interactive web dashboard which shows detailed insights about users and messages in any Telegram chat group. Users must have Telegram Desktop installed to use this app. Do note that currently the app is unable to process chat files greater than 200 MB due to resource constraints imposed on the free tier of Streamlit Community Cloud.",
-    "crumbs": [
-      "Projects",
-      "Streamlit Projects"
-    ]
-  },
-  {
-    "objectID": "projects/streamlit_apps/index.html#machine-learning-classification---audit-fraud-detection",
-    "href": "projects/streamlit_apps/index.html#machine-learning-classification---audit-fraud-detection",
-    "title": "Streamlit Projects",
-    "section": "Machine Learning (Classification) - Audit Fraud Detection",
-    "text": "Machine Learning (Classification) - Audit Fraud Detection\n\nLink to web app | Code\nA simple classification machine learning project in Python that attempts to make use of the scikit-learn library in Python to try and accurately predict whether a firm is fraudulent using different types of classification models (KNN, Random Forest etc.), and is trained on historical data from diverse firms, where fraudulent activities were previously detected during audits. The dataset is from Kaggle.",
-    "crumbs": [
-      "Projects",
-      "Streamlit Projects"
-    ]
-  },
-  {
-    "objectID": "projects/streamlit_apps/index.html#machine-learning-regression---insurance-pricing",
-    "href": "projects/streamlit_apps/index.html#machine-learning-regression---insurance-pricing",
-    "title": "Streamlit Projects",
-    "section": "Machine Learning (Regression) - Insurance Pricing",
-    "text": "Machine Learning (Regression) - Insurance Pricing\n\nLink to web app | Code\nA basic regression machine learning project in Python which aims to accurately predict insurance charges for an individual based on several input factors, such as age, BMI, number of children etc. and uses the scikit-learn library to determine the accuracy and precision of the regression model (such as linear, ridge etc.) and predict charges. The dataset is from Kaggle.",
+    "text": "Link to web app | Code\nAn interactive web dashboard which shows detailed insights about users and messages in any Telegram chat group such as user with most messages, when the chat history was most active, etc. Users must have Telegram Desktop installed to use this app. Do note that currently the app is unable to process chat files greater than 200 MB due to resource constraints imposed on the free tier of Streamlit Community Cloud.",
     "crumbs": [
       "Projects",
       "Streamlit Projects"
@@ -238,17 +183,6 @@
     "title": "Streamlit Projects",
     "section": "Binomial Options Pricing Model Visualisation and Calculator",
     "text": "Binomial Options Pricing Model Visualisation and Calculator\n\nLink to web app | Code\nA web application designed for students studying options pricing, offering an interactive Binomial Options Pricing Model (or CRR Model) tool. It allows users to create and visualize a binomial tree model with custom parameters, export data to Excel and PDF files, and provides detailed explanations of the model’s workings.",
-    "crumbs": [
-      "Projects",
-      "Streamlit Projects"
-    ]
-  },
-  {
-    "objectID": "projects/streamlit_apps/index.html#gpa-calculator---exclusively-for-nus-students",
-    "href": "projects/streamlit_apps/index.html#gpa-calculator---exclusively-for-nus-students",
-    "title": "Streamlit Projects",
-    "section": "GPA Calculator - Exclusively for NUS students",
-    "text": "GPA Calculator - Exclusively for NUS students\n\nLink to web app | Code\nA web app which allows NUS (National University of Singapore) students to easily keep track of the course they have taken in an Excel spreadsheet and provide detailed statistics on their GPA and courses taken. All data on courses is up-to-date and provided by the NUSMods API here.",
     "crumbs": [
       "Projects",
       "Streamlit Projects"

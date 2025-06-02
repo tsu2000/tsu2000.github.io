@@ -23,12 +23,10 @@ sidebar: false
 ::: {#about-block}
 :::
 
-# See how I bring my ideas to life.
+# See how I turn data into decisions.
 
-I am Teng Suan, a final-year undergraduate at the National University of Singapore (NUS), pursuing a Bachelor of Business Administration (Accountancy) with a second specialisation in Business Analytics.
+I am Teng Suan, a recent Bachelor of Business Administration (BBA) graduate from the National University of Singapore (NUS), with a strong interest in business analytics, data science, and data-driven consulting.
 
-I am currently seeking my first analytics-related role, with a keen interest in business analytics, data analytics, or data-driven consulting.
+This website features a selection of my personal projects and includes my CV for download.
 
-This website showcases a selection of my personal projects and provides access to my curriculum vitae for download.
-
-If you have any questions or would like to discuss potential data projects or job prospects, feel free to [contact me](mailto:mail.ngtengsuan@gmail.com).
+If you have any questions or would like to discuss potential projects, feel free to [contact me](mailto:mail.ngtengsuan@gmail.com).
