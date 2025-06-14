@@ -25,7 +25,7 @@ sidebar: false
 
 # See how I turn data into decisions.
 
-I am Teng Suan, a recent Bachelor of Business Administration (BBA) graduate from the National University of Singapore (NUS), with a strong interest in business analytics, data science, and data-driven consulting.
+I am Teng Suan, a recent Bachelor of Business Administration (BBA) graduate from the National University of Singapore (NUS), with a strong interest in business analytics, data engineering, data science, and data-driven consulting.
 
 This website features a selection of my personal projects and includes my CV for download.
 
